@@ -1,16 +1,3 @@
----
-title: OncoLncAI
-emoji: 🧬
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 6.23.1
-python_version: "3.12"
-app_file: app.py
-pinned: false
-license: apache-2.0
----
-
 # OncoLncAI
 
 ## Agentic lncRNA Biomarker Discovery and Evidence Validation
