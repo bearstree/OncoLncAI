@@ -1,0 +1,18 @@
+services:
+  oncolncai:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: oncolncai:milestone21
+    ports:
+      - "${ONCOLNCAI_HOST_PORT:-7861}:7860"
+    environment:
+      ONCOLNCAI_ENVIRONMENT: local-validation
+      ONCOLNCAI_LLM_PROVIDER: ${ONCOLNCAI_LLM_PROVIDER:-ollama}
+      ONCOLNCAI_LLM_MODEL: ${ONCOLNCAI_LLM_MODEL:-qwen2.5-coder:14b}
+      ONCOLNCAI_LLM_BASE_URL: ${ONCOLNCAI_LLM_BASE_URL:-http://host.docker.internal:11434}
+      ONCOLNCAI_LLM_TIMEOUT_SECONDS: ${ONCOLNCAI_LLM_TIMEOUT_SECONDS:-60}
+      ONCOLNCAI_PUBLIC_URL: http://127.0.0.1:${ONCOLNCAI_HOST_PORT:-7861}
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

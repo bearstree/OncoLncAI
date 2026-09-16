@@ -1,0 +1,14 @@
+{
+  "release": "0.1.0",
+  "package_boundary": "lean-runtime-focused",
+  "automated_tests": {"passed": 238, "warnings": 5},
+  "package_scan": "passed",
+  "inventory_verification": "passed",
+  "clean_package_import": "passed",
+  "representative_demo_workflow": "passed",
+  "docker_build": "passed",
+  "container_http_smoke": "passed",
+  "container_internal_file_check": "passed",
+  "remote_publication": "not_attempted_destination_not_verified",
+  "live_hugging_face_smoke": "not_applicable_before_authenticated_deployment"
+}

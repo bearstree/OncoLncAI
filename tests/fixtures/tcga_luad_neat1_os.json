@@ -1,0 +1,6340 @@
+{
+  "fixture_purpose": "Pinned real-data regression and review fixture; not a clinical claim.",
+  "cohort": {
+    "project_id": "TCGA-LUAD",
+    "gene": "NEAT1",
+    "ensembl_gene_id": "ENSG00000245532",
+    "endpoint": "OS",
+    "expression_scale": "Xena GDC-hub transformed STAR-count value",
+    "samples": [
+      {
+        "sample_id": "TCGA-05-4249",
+        "time": 1523.0,
+        "event": 0,
+        "expression": 14.018634869539612
+      },
+      {
+        "sample_id": "TCGA-05-4250",
+        "time": 121.0,
+        "event": 1,
+        "expression": 13.902940323128275
+      },
+      {
+        "sample_id": "TCGA-05-4382",
+        "time": 607.0,
+        "event": 0,
+        "expression": 14.836543533554272
+      },
+      {
+        "sample_id": "TCGA-05-4384",
+        "time": 426.0,
+        "event": 0,
+        "expression": 15.52573489737517
+      },
+      {
+        "sample_id": "TCGA-05-4389",
+        "time": 1369.0,
+        "event": 0,
+        "expression": 13.336367081389795
+      },
+      {
+        "sample_id": "TCGA-05-4390",
+        "time": 1126.0,
+        "event": 0,
+        "expression": 11.470658874060552
+      },
+      {
+        "sample_id": "TCGA-05-4396",
+        "time": 303.0,
+        "event": 1,
+        "expression": 12.579315937580015
+      },
+      {
+        "sample_id": "TCGA-05-4397",
+        "time": 731.0,
+        "event": 1,
+        "expression": 13.807858006430275
+      },
+      {
+        "sample_id": "TCGA-05-4398",
+        "time": 1431.0,
+        "event": 0,
+        "expression": 15.691470916513605
+      },
+      {
+        "sample_id": "TCGA-05-4402",
+        "time": 244.0,
+        "event": 1,
+        "expression": 13.702605602110248
+      },
+      {
+        "sample_id": "TCGA-05-4403",
+        "time": 578.0,
+        "event": 0,
+        "expression": 11.835260918627489
+      },
+      {
+        "sample_id": "TCGA-05-4405",
+        "time": 610.0,
+        "event": 0,
+        "expression": 13.0534168447575
+      },
+      {
+        "sample_id": "TCGA-05-4415",
+        "time": 91.0,
+        "event": 1,
+        "expression": 13.067602418889496
+      },
+      {
+        "sample_id": "TCGA-05-4417",
+        "time": 455.0,
+        "event": 0,
+        "expression": 12.700873155140263
+      },
+      {
+        "sample_id": "TCGA-05-4418",
+        "time": 274.0,
+        "event": 1,
+        "expression": 15.089450481115907
+      },
+      {
+        "sample_id": "TCGA-05-4420",
+        "time": 912.0,
+        "event": 0,
+        "expression": 12.972620862058745
+      },
+      {
+        "sample_id": "TCGA-05-4422",
+        "time": 365.0,
+        "event": 0,
+        "expression": 15.979894048618462
+      },
+      {
+        "sample_id": "TCGA-05-4424",
+        "time": 913.0,
+        "event": 0,
+        "expression": 11.649705265471413
+      },
+      {
+        "sample_id": "TCGA-05-4425",
+        "time": 669.0,
+        "event": 0,
+        "expression": 12.610794169053182
+      },
+      {
+        "sample_id": "TCGA-05-4426",
+        "time": 791.0,
+        "event": 0,
+        "expression": 15.646333693380967
+      },
+      {
+        "sample_id": "TCGA-05-4427",
+        "time": 791.0,
+        "event": 0,
+        "expression": 14.115693952197011
+      },
+      {
+        "sample_id": "TCGA-05-4430",
+        "time": 761.0,
+        "event": 0,
+        "expression": 11.847840355630714
+      },
+      {
+        "sample_id": "TCGA-05-4432",
+        "time": 761.0,
+        "event": 0,
+        "expression": 13.385997175272871
+      },
+      {
+        "sample_id": "TCGA-05-4433",
+        "time": 730.0,
+        "event": 0,
+        "expression": 12.893680738390907
+      },
+      {
+        "sample_id": "TCGA-05-4434",
+        "time": 457.0,
+        "event": 1,
+        "expression": 15.562659810320003
+      },
+      {
+        "sample_id": "TCGA-05-5420",
+        "time": 457.0,
+        "event": 0,
+        "expression": 11.743992861060175
+      },
+      {
+        "sample_id": "TCGA-05-5423",
+        "time": 151.0,
+        "event": 0,
+        "expression": 11.956013078088098
+      },
+      {
+        "sample_id": "TCGA-05-5425",
+        "time": 882.0,
+        "event": 0,
+        "expression": 12.63185912728278
+      },
+      {
+        "sample_id": "TCGA-05-5428",
+        "time": 670.0,
+        "event": 0,
+        "expression": 10.901621158346112
+      },
+      {
+        "sample_id": "TCGA-05-5429",
+        "time": 275.0,
+        "event": 1,
+        "expression": 11.471167133724391
+      },
+      {
+        "sample_id": "TCGA-05-5715",
+        "time": 62.0,
+        "event": 0,
+        "expression": 11.053925881531105
+      },
+      {
+        "sample_id": "TCGA-35-3615",
+        "time": 14.0,
+        "event": 0,
+        "expression": 15.563226069807248
+      },
+      {
+        "sample_id": "TCGA-35-4122",
+        "time": 225.0,
+        "event": 0,
+        "expression": 9.894817763307943
+      },
+      {
+        "sample_id": "TCGA-35-4123",
+        "time": 182.0,
+        "event": 0,
+        "expression": 12.193525360501216
+      },
+      {
+        "sample_id": "TCGA-35-5375",
+        "time": 264.0,
+        "event": 0,
+        "expression": 11.11504365016171
+      },
+      {
+        "sample_id": "TCGA-38-4625",
+        "time": 2973.0,
+        "event": 0,
+        "expression": 13.14274527675153
+      },
+      {
+        "sample_id": "TCGA-38-4626",
+        "time": 3674.0,
+        "event": 0,
+        "expression": 16.288775974989477
+      },
+      {
+        "sample_id": "TCGA-38-4627",
+        "time": 1147.0,
+        "event": 1,
+        "expression": 11.101975670949232
+      },
+      {
+        "sample_id": "TCGA-38-4628",
+        "time": 1492.0,
+        "event": 1,
+        "expression": 11.667555107041132
+      },
+      {
+        "sample_id": "TCGA-38-4629",
+        "time": 864.0,
+        "event": 1,
+        "expression": 12.789126046425231
+      },
+      {
+        "sample_id": "TCGA-38-4630",
+        "time": 1073.0,
+        "event": 1,
+        "expression": 14.77272694923985
+      },
+      {
+        "sample_id": "TCGA-38-4631",
+        "time": 354.0,
+        "event": 1,
+        "expression": 10.662668375517542
+      },
+      {
+        "sample_id": "TCGA-38-4632",
+        "time": 1357.0,
+        "event": 1,
+        "expression": 10.24436383512051
+      },
+      {
+        "sample_id": "TCGA-38-6178",
+        "time": 448.0,
+        "event": 0,
+        "expression": 13.224303209373389
+      },
+      {
+        "sample_id": "TCGA-38-7271",
+        "time": 800.0,
+        "event": 1,
+        "expression": 11.296916206879288
+      },
+      {
+        "sample_id": "TCGA-38-A44F",
+        "time": 133.0,
+        "event": 0,
+        "expression": 15.81528321638227
+      },
+      {
+        "sample_id": "TCGA-44-2655",
+        "time": 1324.0,
+        "event": 0,
+        "expression": 13.677609541664545
+      },
+      {
+        "sample_id": "TCGA-44-2656",
+        "time": 1429.0,
+        "event": 0,
+        "expression": 15.700669997760706
+      },
+      {
+        "sample_id": "TCGA-44-2657",
+        "time": 1351.0,
+        "event": 0,
+        "expression": 13.384783750093353
+      },
+      {
+        "sample_id": "TCGA-44-2659",
+        "time": 1367.0,
+        "event": 0,
+        "expression": 14.139151614223039
+      },
+      {
+        "sample_id": "TCGA-44-2661",
+        "time": 1159.0,
+        "event": 0,
+        "expression": 14.463460513189242
+      },
+      {
+        "sample_id": "TCGA-44-2662",
+        "time": 1280.0,
+        "event": 0,
+        "expression": 15.567763014125344
+      },
+      {
+        "sample_id": "TCGA-44-2665",
+        "time": 1301.0,
+        "event": 0,
+        "expression": 14.265798155172577
+      },
+      {
+        "sample_id": "TCGA-44-2666",
+        "time": 97.0,
+        "event": 1,
+        "expression": 15.596408170908864
+      },
+      {
+        "sample_id": "TCGA-44-2668",
+        "time": 761.0,
+        "event": 1,
+        "expression": 14.52775188365309
+      },
+      {
+        "sample_id": "TCGA-44-3396",
+        "time": 1130.0,
+        "event": 0,
+        "expression": 15.866626946917082
+      },
+      {
+        "sample_id": "TCGA-44-3398",
+        "time": 1163.0,
+        "event": 0,
+        "expression": 12.951284714966972
+      },
+      {
+        "sample_id": "TCGA-44-3917",
+        "time": 1183.0,
+        "event": 0,
+        "expression": 13.83061423536284
+      },
+      {
+        "sample_id": "TCGA-44-3918",
+        "time": 1036.0,
+        "event": 0,
+        "expression": 14.420058899039553
+      },
+      {
+        "sample_id": "TCGA-44-3919",
+        "time": 1026.0,
+        "event": 1,
+        "expression": 14.753530162781162
+      },
+      {
+        "sample_id": "TCGA-44-4112",
+        "time": 808.0,
+        "event": 1,
+        "expression": 14.954400811003321
+      },
+      {
+        "sample_id": "TCGA-44-5643",
+        "time": 1013.0,
+        "event": 0,
+        "expression": 12.445790836048076
+      },
+      {
+        "sample_id": "TCGA-44-5644",
+        "time": 863.0,
+        "event": 0,
+        "expression": 13.953832682145281
+      },
+      {
+        "sample_id": "TCGA-44-5645",
+        "time": 852.0,
+        "event": 0,
+        "expression": 14.720671786825555
+      },
+      {
+        "sample_id": "TCGA-44-6145",
+        "time": 595.0,
+        "event": 0,
+        "expression": 13.191676146352428
+      },
+      {
+        "sample_id": "TCGA-44-6146",
+        "time": 728.0,
+        "event": 0,
+        "expression": 13.277578002415737
+      },
+      {
+        "sample_id": "TCGA-44-6147",
+        "time": 845.0,
+        "event": 0,
+        "expression": 15.04550372068702
+      },
+      {
+        "sample_id": "TCGA-44-6148",
+        "time": 704.0,
+        "event": 0,
+        "expression": 14.264295977426446
+      },
+      {
+        "sample_id": "TCGA-44-6774",
+        "time": 658.0,
+        "event": 0,
+        "expression": 11.417852514885897
+      },
+      {
+        "sample_id": "TCGA-44-6775",
+        "time": 705.0,
+        "event": 0,
+        "expression": 15.2255840312292
+      },
+      {
+        "sample_id": "TCGA-44-6776",
+        "time": 2616.0,
+        "event": 0,
+        "expression": 12.874597192401634
+      },
+      {
+        "sample_id": "TCGA-44-6777",
+        "time": 987.0,
+        "event": 1,
+        "expression": 11.481294904631097
+      },
+      {
+        "sample_id": "TCGA-44-6778",
+        "time": 1864.0,
+        "event": 0,
+        "expression": 13.726537492725074
+      },
+      {
+        "sample_id": "TCGA-44-6779",
+        "time": 500.0,
+        "event": 1,
+        "expression": 10.929998062609027
+      },
+      {
+        "sample_id": "TCGA-44-7659",
+        "time": 691.0,
+        "event": 0,
+        "expression": 14.603394530887375
+      },
+      {
+        "sample_id": "TCGA-44-7660",
+        "time": 592.0,
+        "event": 0,
+        "expression": 14.667111542075027
+      },
+      {
+        "sample_id": "TCGA-44-7661",
+        "time": 557.0,
+        "event": 1,
+        "expression": 15.11695307884875
+      },
+      {
+        "sample_id": "TCGA-44-7662",
+        "time": 218.0,
+        "event": 0,
+        "expression": 14.63736073279274
+      },
+      {
+        "sample_id": "TCGA-44-7667",
+        "time": 1097.0,
+        "event": 0,
+        "expression": 10.365228849251544
+      },
+      {
+        "sample_id": "TCGA-44-7669",
+        "time": 574.0,
+        "event": 1,
+        "expression": 16.153195747173587
+      },
+      {
+        "sample_id": "TCGA-44-7670",
+        "time": 882.0,
+        "event": 0,
+        "expression": 13.783612165256038
+      },
+      {
+        "sample_id": "TCGA-44-7671",
+        "time": 889.0,
+        "event": 0,
+        "expression": 12.399277924508967
+      },
+      {
+        "sample_id": "TCGA-44-7672",
+        "time": 719.0,
+        "event": 0,
+        "expression": 12.264442600226602
+      },
+      {
+        "sample_id": "TCGA-44-8117",
+        "time": 385.0,
+        "event": 0,
+        "expression": 14.06936584833746
+      },
+      {
+        "sample_id": "TCGA-44-8119",
+        "time": 285.0,
+        "event": 0,
+        "expression": 15.566856765955636
+      },
+      {
+        "sample_id": "TCGA-44-8120",
+        "time": 260.0,
+        "event": 0,
+        "expression": 14.659605741360892
+      },
+      {
+        "sample_id": "TCGA-44-A479",
+        "time": 486.0,
+        "event": 0,
+        "expression": 14.809918820182885
+      },
+      {
+        "sample_id": "TCGA-44-A47A",
+        "time": 466.0,
+        "event": 0,
+        "expression": 15.106644723559945
+      },
+      {
+        "sample_id": "TCGA-44-A47B",
+        "time": 287.0,
+        "event": 0,
+        "expression": 16.036238017144505
+      },
+      {
+        "sample_id": "TCGA-44-A47G",
+        "time": 351.0,
+        "event": 0,
+        "expression": 15.59531576627041
+      },
+      {
+        "sample_id": "TCGA-44-A4SS",
+        "time": 415.0,
+        "event": 0,
+        "expression": 13.307058468354262
+      },
+      {
+        "sample_id": "TCGA-44-A4SU",
+        "time": 409.0,
+        "event": 1,
+        "expression": 16.15473901176099
+      },
+      {
+        "sample_id": "TCGA-49-4486",
+        "time": 2318.0,
+        "event": 1,
+        "expression": 14.172349370966211
+      },
+      {
+        "sample_id": "TCGA-49-4487",
+        "time": 855.0,
+        "event": 1,
+        "expression": 13.034455095327186
+      },
+      {
+        "sample_id": "TCGA-49-4488",
+        "time": 869.0,
+        "event": 1,
+        "expression": 9.475733430966399
+      },
+      {
+        "sample_id": "TCGA-49-4490",
+        "time": 385.0,
+        "event": 1,
+        "expression": 12.901809684323629
+      },
+      {
+        "sample_id": "TCGA-49-4494",
+        "time": 1081.0,
+        "event": 1,
+        "expression": 11.129283016944967
+      },
+      {
+        "sample_id": "TCGA-49-4501",
+        "time": 1421.0,
+        "event": 1,
+        "expression": 13.319531005375806
+      },
+      {
+        "sample_id": "TCGA-49-4505",
+        "time": 428.0,
+        "event": 1,
+        "expression": 13.98504140334317
+      },
+      {
+        "sample_id": "TCGA-49-4506",
+        "time": 999.0,
+        "event": 1,
+        "expression": 15.175900357942695
+      },
+      {
+        "sample_id": "TCGA-49-4507",
+        "time": 268.0,
+        "event": 1,
+        "expression": 14.774992908933175
+      },
+      {
+        "sample_id": "TCGA-49-4510",
+        "time": 896.0,
+        "event": 1,
+        "expression": 16.04379628804688
+      },
+      {
+        "sample_id": "TCGA-49-4512",
+        "time": 905.0,
+        "event": 1,
+        "expression": 13.615744569853312
+      },
+      {
+        "sample_id": "TCGA-49-4514",
+        "time": 1700.0,
+        "event": 0,
+        "expression": 11.95746484680521
+      },
+      {
+        "sample_id": "TCGA-49-6742",
+        "time": 488.0,
+        "event": 1,
+        "expression": 12.810370800183728
+      },
+      {
+        "sample_id": "TCGA-49-6743",
+        "time": 1621.0,
+        "event": 0,
+        "expression": 11.761135649828645
+      },
+      {
+        "sample_id": "TCGA-49-6744",
+        "time": 1683.0,
+        "event": 0,
+        "expression": 13.397941971972639
+      },
+      {
+        "sample_id": "TCGA-49-6745",
+        "time": 522.0,
+        "event": 0,
+        "expression": 12.155450731312138
+      },
+      {
+        "sample_id": "TCGA-49-6761",
+        "time": 354.0,
+        "event": 0,
+        "expression": 12.267371931265274
+      },
+      {
+        "sample_id": "TCGA-49-6767",
+        "time": 677.0,
+        "event": 0,
+        "expression": 12.106562940444883
+      },
+      {
+        "sample_id": "TCGA-49-AAQV",
+        "time": 677.0,
+        "event": 1,
+        "expression": 15.499316486274392
+      },
+      {
+        "sample_id": "TCGA-49-AAR0",
+        "time": 4765.0,
+        "event": 0,
+        "expression": 15.819954521296216
+      },
+      {
+        "sample_id": "TCGA-49-AAR2",
+        "time": 2224.0,
+        "event": 0,
+        "expression": 15.261470580245705
+      },
+      {
+        "sample_id": "TCGA-49-AAR3",
+        "time": 1893.0,
+        "event": 0,
+        "expression": 13.940497134458205
+      },
+      {
+        "sample_id": "TCGA-49-AAR4",
+        "time": 879.0,
+        "event": 1,
+        "expression": 15.191676146352428
+      },
+      {
+        "sample_id": "TCGA-49-AAR9",
+        "time": 260.0,
+        "event": 1,
+        "expression": 14.007552934613717
+      },
+      {
+        "sample_id": "TCGA-49-AARE",
+        "time": 1229.0,
+        "event": 1,
+        "expression": 15.061582146913194
+      },
+      {
+        "sample_id": "TCGA-49-AARN",
+        "time": 1135.0,
+        "event": 1,
+        "expression": 13.893965078642307
+      },
+      {
+        "sample_id": "TCGA-49-AARO",
+        "time": 3759.0,
+        "event": 0,
+        "expression": 15.29192610297341
+      },
+      {
+        "sample_id": "TCGA-49-AARQ",
+        "time": 6732.0,
+        "event": 0,
+        "expression": 15.760096169244092
+      },
+      {
+        "sample_id": "TCGA-49-AARR",
+        "time": 4992.0,
+        "event": 0,
+        "expression": 15.490380846532009
+      },
+      {
+        "sample_id": "TCGA-4B-A93V",
+        "time": 300.0,
+        "event": 1,
+        "expression": 15.896710815726115
+      },
+      {
+        "sample_id": "TCGA-50-5044",
+        "time": 624.0,
+        "event": 1,
+        "expression": 11.31797782240712
+      },
+      {
+        "sample_id": "TCGA-50-5045",
+        "time": 2174.0,
+        "event": 1,
+        "expression": 12.521355062558259
+      },
+      {
+        "sample_id": "TCGA-50-5049",
+        "time": 3094.0,
+        "event": 0,
+        "expression": 11.253256579781153
+      },
+      {
+        "sample_id": "TCGA-50-5051",
+        "time": 478.0,
+        "event": 1,
+        "expression": 14.00544911354693
+      },
+      {
+        "sample_id": "TCGA-50-5055",
+        "time": 1830.0,
+        "event": 1,
+        "expression": 11.053247125912426
+      },
+      {
+        "sample_id": "TCGA-50-5066",
+        "time": 1442.0,
+        "event": 0,
+        "expression": 11.015415052386688
+      },
+      {
+        "sample_id": "TCGA-50-5068",
+        "time": 1499.0,
+        "event": 1,
+        "expression": 11.069449767427784
+      },
+      {
+        "sample_id": "TCGA-50-5072",
+        "time": 250.0,
+        "event": 1,
+        "expression": 12.35149140932002
+      },
+      {
+        "sample_id": "TCGA-50-5930",
+        "time": 282.0,
+        "event": 1,
+        "expression": 12.491352073563435
+      },
+      {
+        "sample_id": "TCGA-50-5931",
+        "time": 434.0,
+        "event": 1,
+        "expression": 12.357826882210777
+      },
+      {
+        "sample_id": "TCGA-50-5932",
+        "time": 1235.0,
+        "event": 1,
+        "expression": 14.325094601552529
+      },
+      {
+        "sample_id": "TCGA-50-5933",
+        "time": 2393.0,
+        "event": 1,
+        "expression": 12.598517810612622
+      },
+      {
+        "sample_id": "TCGA-50-5935",
+        "time": 653.0,
+        "event": 1,
+        "expression": 13.427705681452814
+      },
+      {
+        "sample_id": "TCGA-50-5936",
+        "time": 257.0,
+        "event": 1,
+        "expression": 13.311322594732095
+      },
+      {
+        "sample_id": "TCGA-50-5939",
+        "time": 460.0,
+        "event": 1,
+        "expression": 12.39231742277876
+      },
+      {
+        "sample_id": "TCGA-50-5941",
+        "time": 1474.0,
+        "event": 0,
+        "expression": 11.625708843064466
+      },
+      {
+        "sample_id": "TCGA-50-5942",
+        "time": 1847.0,
+        "event": 0,
+        "expression": 12.384783750093353
+      },
+      {
+        "sample_id": "TCGA-50-5944",
+        "time": 1750.0,
+        "event": 0,
+        "expression": 12.250298417906333
+      },
+      {
+        "sample_id": "TCGA-50-5946",
+        "time": 1617.0,
+        "event": 0,
+        "expression": 15.310399769619735
+      },
+      {
+        "sample_id": "TCGA-50-6590",
+        "time": 1288.0,
+        "event": 1,
+        "expression": 11.943247395901553
+      },
+      {
+        "sample_id": "TCGA-50-6591",
+        "time": 119.0,
+        "event": 1,
+        "expression": 11.526010107061737
+      },
+      {
+        "sample_id": "TCGA-50-6592",
+        "time": 777.0,
+        "event": 1,
+        "expression": 13.938660709769191
+      },
+      {
+        "sample_id": "TCGA-50-6593",
+        "time": 336.0,
+        "event": 1,
+        "expression": 13.194295167381915
+      },
+      {
+        "sample_id": "TCGA-50-6594",
+        "time": 370.0,
+        "event": 1,
+        "expression": 12.363039630256514
+      },
+      {
+        "sample_id": "TCGA-50-6595",
+        "time": 189.0,
+        "event": 1,
+        "expression": 10.778898476008376
+      },
+      {
+        "sample_id": "TCGA-50-6597",
+        "time": 1268.0,
+        "event": 1,
+        "expression": 11.527477006060396
+      },
+      {
+        "sample_id": "TCGA-50-6673",
+        "time": 22.0,
+        "event": 1,
+        "expression": 11.29748950116098
+      },
+      {
+        "sample_id": "TCGA-50-7109",
+        "time": 308.0,
+        "event": 1,
+        "expression": 13.51631561149792
+      },
+      {
+        "sample_id": "TCGA-50-8457",
+        "time": 1125.0,
+        "event": 0,
+        "expression": 14.141468555393084
+      },
+      {
+        "sample_id": "TCGA-50-8459",
+        "time": 1119.0,
+        "event": 0,
+        "expression": 13.986197587206274
+      },
+      {
+        "sample_id": "TCGA-50-8460",
+        "time": 829.0,
+        "event": 0,
+        "expression": 15.16988586530383
+      },
+      {
+        "sample_id": "TCGA-53-7624",
+        "time": 1043.0,
+        "event": 1,
+        "expression": 14.022020969646356
+      },
+      {
+        "sample_id": "TCGA-53-7626",
+        "time": 929.0,
+        "event": 1,
+        "expression": 13.722594098956584
+      },
+      {
+        "sample_id": "TCGA-53-7813",
+        "time": 424.0,
+        "event": 0,
+        "expression": 14.827342704234116
+      },
+      {
+        "sample_id": "TCGA-53-A4EZ",
+        "time": 1071.0,
+        "event": 0,
+        "expression": 14.695663296788021
+      },
+      {
+        "sample_id": "TCGA-55-1592",
+        "time": 701.0,
+        "event": 1,
+        "expression": 15.542306422582591
+      },
+      {
+        "sample_id": "TCGA-55-1594",
+        "time": 1178.0,
+        "event": 0,
+        "expression": 13.68057929578025
+      },
+      {
+        "sample_id": "TCGA-55-1595",
+        "time": 1479.0,
+        "event": 0,
+        "expression": 14.82376527978966
+      },
+      {
+        "sample_id": "TCGA-55-1596",
+        "time": 2065.0,
+        "event": 0,
+        "expression": 11.482303782323182
+      },
+      {
+        "sample_id": "TCGA-55-5899",
+        "time": 930.0,
+        "event": 0,
+        "expression": 13.944071453003133
+      },
+      {
+        "sample_id": "TCGA-55-6543",
+        "time": 435.0,
+        "event": 0,
+        "expression": 13.045759661382682
+      },
+      {
+        "sample_id": "TCGA-55-6642",
+        "time": 2449.0,
+        "event": 0,
+        "expression": 12.58754314137182
+      },
+      {
+        "sample_id": "TCGA-55-6712",
+        "time": 171.0,
+        "event": 1,
+        "expression": 12.923141750621268
+      },
+      {
+        "sample_id": "TCGA-55-6968",
+        "time": 1293.0,
+        "event": 1,
+        "expression": 12.852919585123995
+      },
+      {
+        "sample_id": "TCGA-55-6969",
+        "time": 1239.0,
+        "event": 0,
+        "expression": 14.65424442508658
+      },
+      {
+        "sample_id": "TCGA-55-6970",
+        "time": 464.0,
+        "event": 1,
+        "expression": 14.777358067589736
+      },
+      {
+        "sample_id": "TCGA-55-6971",
+        "time": 1400.0,
+        "event": 0,
+        "expression": 14.05418033258104
+      },
+      {
+        "sample_id": "TCGA-55-6972",
+        "time": 1632.0,
+        "event": 1,
+        "expression": 13.605479518061669
+      },
+      {
+        "sample_id": "TCGA-55-6975",
+        "time": 118.0,
+        "event": 1,
+        "expression": 11.06204613772049
+      },
+      {
+        "sample_id": "TCGA-55-6978",
+        "time": 176.0,
+        "event": 1,
+        "expression": 14.63254087654689
+      },
+      {
+        "sample_id": "TCGA-55-6979",
+        "time": 237.0,
+        "event": 1,
+        "expression": 13.35024859944484
+      },
+      {
+        "sample_id": "TCGA-55-6980",
+        "time": 2109.0,
+        "event": 0,
+        "expression": 13.259007607644609
+      },
+      {
+        "sample_id": "TCGA-55-6981",
+        "time": 1379.0,
+        "event": 1,
+        "expression": 13.610332801911134
+      },
+      {
+        "sample_id": "TCGA-55-6982",
+        "time": 995.0,
+        "event": 1,
+        "expression": 12.205182326228643
+      },
+      {
+        "sample_id": "TCGA-55-6983",
+        "time": 2823.0,
+        "event": 0,
+        "expression": 13.814682593958569
+      },
+      {
+        "sample_id": "TCGA-55-6984",
+        "time": 760.0,
+        "event": 1,
+        "expression": 14.60466904773128
+      },
+      {
+        "sample_id": "TCGA-55-6985",
+        "time": 1233.0,
+        "event": 0,
+        "expression": 13.553029246059738
+      },
+      {
+        "sample_id": "TCGA-55-6986",
+        "time": 3261.0,
+        "event": 0,
+        "expression": 13.61987606750398
+      },
+      {
+        "sample_id": "TCGA-55-6987",
+        "time": 2137.0,
+        "event": 0,
+        "expression": 14.717515781510224
+      },
+      {
+        "sample_id": "TCGA-55-7227",
+        "time": 952.0,
+        "event": 1,
+        "expression": 14.697347704499375
+      },
+      {
+        "sample_id": "TCGA-55-7281",
+        "time": 872.0,
+        "event": 0,
+        "expression": 13.582730044700748
+      },
+      {
+        "sample_id": "TCGA-55-7283",
+        "time": 609.0,
+        "event": 0,
+        "expression": 12.67065624911844
+      },
+      {
+        "sample_id": "TCGA-55-7284",
+        "time": 243.0,
+        "event": 1,
+        "expression": 14.79400964502097
+      },
+      {
+        "sample_id": "TCGA-55-7570",
+        "time": 824.0,
+        "event": 0,
+        "expression": 13.438661921021376
+      },
+      {
+        "sample_id": "TCGA-55-7573",
+        "time": 487.0,
+        "event": 0,
+        "expression": 14.094160179598845
+      },
+      {
+        "sample_id": "TCGA-55-7574",
+        "time": 995.0,
+        "event": 1,
+        "expression": 15.422984559025702
+      },
+      {
+        "sample_id": "TCGA-55-7576",
+        "time": 670.0,
+        "event": 0,
+        "expression": 13.234817431117325
+      },
+      {
+        "sample_id": "TCGA-55-7724",
+        "time": 705.0,
+        "event": 0,
+        "expression": 12.848818520317238
+      },
+      {
+        "sample_id": "TCGA-55-7725",
+        "time": 442.0,
+        "event": 0,
+        "expression": 13.632086412835182
+      },
+      {
+        "sample_id": "TCGA-55-7726",
+        "time": 652.0,
+        "event": 0,
+        "expression": 13.062552139376775
+      },
+      {
+        "sample_id": "TCGA-55-7727",
+        "time": 119.0,
+        "event": 0,
+        "expression": 13.990635833003022
+      },
+      {
+        "sample_id": "TCGA-55-7728",
+        "time": 704.0,
+        "event": 0,
+        "expression": 16.607980420425676
+      },
+      {
+        "sample_id": "TCGA-55-7815",
+        "time": 773.0,
+        "event": 0,
+        "expression": 12.39687231851056
+      },
+      {
+        "sample_id": "TCGA-55-7816",
+        "time": 468.0,
+        "event": 1,
+        "expression": 14.882022052529859
+      },
+      {
+        "sample_id": "TCGA-55-7903",
+        "time": 567.0,
+        "event": 0,
+        "expression": 15.683460707728484
+      },
+      {
+        "sample_id": "TCGA-55-7907",
+        "time": 343.0,
+        "event": 1,
+        "expression": 12.627761852402616
+      },
+      {
+        "sample_id": "TCGA-55-7910",
+        "time": 1040.0,
+        "event": 0,
+        "expression": 14.487714445571317
+      },
+      {
+        "sample_id": "TCGA-55-7911",
+        "time": 537.0,
+        "event": 0,
+        "expression": 15.670988119312954
+      },
+      {
+        "sample_id": "TCGA-55-7913",
+        "time": 561.0,
+        "event": 1,
+        "expression": 16.148476582178276
+      },
+      {
+        "sample_id": "TCGA-55-7914",
+        "time": 187.0,
+        "event": 1,
+        "expression": 14.290090864655877
+      },
+      {
+        "sample_id": "TCGA-55-7994",
+        "time": 603.0,
+        "event": 0,
+        "expression": 15.943064208162003
+      },
+      {
+        "sample_id": "TCGA-55-7995",
+        "time": 889.0,
+        "event": 0,
+        "expression": 15.605942439625368
+      },
+      {
+        "sample_id": "TCGA-55-8085",
+        "time": 904.0,
+        "event": 0,
+        "expression": 16.829338724966824
+      },
+      {
+        "sample_id": "TCGA-55-8087",
+        "time": 462.0,
+        "event": 0,
+        "expression": 14.614077146190196
+      },
+      {
+        "sample_id": "TCGA-55-8089",
+        "time": 702.0,
+        "event": 1,
+        "expression": 14.944849297194922
+      },
+      {
+        "sample_id": "TCGA-55-8090",
+        "time": 598.0,
+        "event": 1,
+        "expression": 15.735132884139947
+      },
+      {
+        "sample_id": "TCGA-55-8091",
+        "time": 600.0,
+        "event": 0,
+        "expression": 15.61528478336519
+      },
+      {
+        "sample_id": "TCGA-55-8092",
+        "time": 154.0,
+        "event": 1,
+        "expression": 16.24006458526954
+      },
+      {
+        "sample_id": "TCGA-55-8094",
+        "time": 541.0,
+        "event": 0,
+        "expression": 15.652564919610652
+      },
+      {
+        "sample_id": "TCGA-55-8096",
+        "time": 719.0,
+        "event": 1,
+        "expression": 15.886625400039287
+      },
+      {
+        "sample_id": "TCGA-55-8097",
+        "time": 476.0,
+        "event": 0,
+        "expression": 15.834248821489187
+      },
+      {
+        "sample_id": "TCGA-55-8203",
+        "time": 547.0,
+        "event": 0,
+        "expression": 16.482571646912888
+      },
+      {
+        "sample_id": "TCGA-55-8204",
+        "time": 515.0,
+        "event": 0,
+        "expression": 13.264442600226602
+      },
+      {
+        "sample_id": "TCGA-55-8205",
+        "time": 599.0,
+        "event": 0,
+        "expression": 14.967496468615005
+      },
+      {
+        "sample_id": "TCGA-55-8206",
+        "time": 888.0,
+        "event": 0,
+        "expression": 14.731159901472807
+      },
+      {
+        "sample_id": "TCGA-55-8207",
+        "time": 977.0,
+        "event": 0,
+        "expression": 16.172193082910496
+      },
+      {
+        "sample_id": "TCGA-55-8208",
+        "time": 674.0,
+        "event": 0,
+        "expression": 14.494480615017771
+      },
+      {
+        "sample_id": "TCGA-55-8299",
+        "time": 469.0,
+        "event": 1,
+        "expression": 15.334028811038932
+      },
+      {
+        "sample_id": "TCGA-55-8301",
+        "time": 534.0,
+        "event": 0,
+        "expression": 13.887125397500434
+      },
+      {
+        "sample_id": "TCGA-55-8302",
+        "time": 478.0,
+        "event": 0,
+        "expression": 13.970105890612182
+      },
+      {
+        "sample_id": "TCGA-55-8505",
+        "time": 440.0,
+        "event": 0,
+        "expression": 14.334831928118
+      },
+      {
+        "sample_id": "TCGA-55-8506",
+        "time": 11.0,
+        "event": 0,
+        "expression": 14.7526942418244
+      },
+      {
+        "sample_id": "TCGA-55-8507",
+        "time": 418.0,
+        "event": 0,
+        "expression": 14.055790814565905
+      },
+      {
+        "sample_id": "TCGA-55-8508",
+        "time": 617.0,
+        "event": 0,
+        "expression": 13.930737337562887
+      },
+      {
+        "sample_id": "TCGA-55-8510",
+        "time": 539.0,
+        "event": 0,
+        "expression": 14.617008227651965
+      },
+      {
+        "sample_id": "TCGA-55-8511",
+        "time": 552.0,
+        "event": 0,
+        "expression": 14.36043561057107
+      },
+      {
+        "sample_id": "TCGA-55-8512",
+        "time": 607.0,
+        "event": 1,
+        "expression": 15.945672440070556
+      },
+      {
+        "sample_id": "TCGA-55-8513",
+        "time": 791.0,
+        "event": 0,
+        "expression": 15.4337484262316
+      },
+      {
+        "sample_id": "TCGA-55-8514",
+        "time": 520.0,
+        "event": 0,
+        "expression": 15.756895065908944
+      },
+      {
+        "sample_id": "TCGA-55-8614",
+        "time": 536.0,
+        "event": 0,
+        "expression": 13.548219857354205
+      },
+      {
+        "sample_id": "TCGA-55-8615",
+        "time": 446.0,
+        "event": 0,
+        "expression": 13.026869205263395
+      },
+      {
+        "sample_id": "TCGA-55-8616",
+        "time": 48.0,
+        "event": 0,
+        "expression": 13.95737415404762
+      },
+      {
+        "sample_id": "TCGA-55-8619",
+        "time": 416.0,
+        "event": 0,
+        "expression": 14.340476036759013
+      },
+      {
+        "sample_id": "TCGA-55-8620",
+        "time": 375.0,
+        "event": 1,
+        "expression": 14.3292357417338
+      },
+      {
+        "sample_id": "TCGA-55-8621",
+        "time": 515.0,
+        "event": 0,
+        "expression": 14.549122839821493
+      },
+      {
+        "sample_id": "TCGA-55-A48X",
+        "time": 689.0,
+        "event": 0,
+        "expression": 15.953378017920128
+      },
+      {
+        "sample_id": "TCGA-55-A48Y",
+        "time": 630.0,
+        "event": 0,
+        "expression": 12.220378327695228
+      },
+      {
+        "sample_id": "TCGA-55-A48Z",
+        "time": 651.0,
+        "event": 0,
+        "expression": 14.965198070718955
+      },
+      {
+        "sample_id": "TCGA-55-A490",
+        "time": 99.0,
+        "event": 1,
+        "expression": 13.562838653117804
+      },
+      {
+        "sample_id": "TCGA-55-A491",
+        "time": 626.0,
+        "event": 0,
+        "expression": 12.60177078840771
+      },
+      {
+        "sample_id": "TCGA-55-A492",
+        "time": 596.0,
+        "event": 0,
+        "expression": 15.061582146913194
+      },
+      {
+        "sample_id": "TCGA-55-A493",
+        "time": 28.0,
+        "event": 0,
+        "expression": 15.157583785727162
+      },
+      {
+        "sample_id": "TCGA-55-A494",
+        "time": 481.0,
+        "event": 0,
+        "expression": 16.19391031528667
+      },
+      {
+        "sample_id": "TCGA-55-A4DF",
+        "time": 614.0,
+        "event": 1,
+        "expression": 14.951056998915535
+      },
+      {
+        "sample_id": "TCGA-55-A4DG",
+        "time": 608.0,
+        "event": 0,
+        "expression": 16.37556554429888
+      },
+      {
+        "sample_id": "TCGA-55-A57B",
+        "time": 546.0,
+        "event": 0,
+        "expression": 16.78422586042625
+      },
+      {
+        "sample_id": "TCGA-62-8394",
+        "time": 139.0,
+        "event": 1,
+        "expression": 13.321223481910772
+      },
+      {
+        "sample_id": "TCGA-62-8395",
+        "time": 1216.0,
+        "event": 0,
+        "expression": 15.561974040806497
+      },
+      {
+        "sample_id": "TCGA-62-8397",
+        "time": 1289.0,
+        "event": 0,
+        "expression": 13.286413369370345
+      },
+      {
+        "sample_id": "TCGA-62-8398",
+        "time": 444.0,
+        "event": 1,
+        "expression": 14.315008003600356
+      },
+      {
+        "sample_id": "TCGA-62-8399",
+        "time": 2696.0,
+        "event": 0,
+        "expression": 14.935303196881053
+      },
+      {
+        "sample_id": "TCGA-62-8402",
+        "time": 1498.0,
+        "event": 1,
+        "expression": 14.392719904310423
+      },
+      {
+        "sample_id": "TCGA-62-A46O",
+        "time": 1454.0,
+        "event": 1,
+        "expression": 15.874140875140991
+      },
+      {
+        "sample_id": "TCGA-62-A46P",
+        "time": 594.0,
+        "event": 1,
+        "expression": 13.148476582178278
+      },
+      {
+        "sample_id": "TCGA-62-A46R",
+        "time": 1725.0,
+        "event": 1,
+        "expression": 15.091146091013867
+      },
+      {
+        "sample_id": "TCGA-62-A46S",
+        "time": 1653.0,
+        "event": 1,
+        "expression": 15.331861657156228
+      },
+      {
+        "sample_id": "TCGA-62-A46U",
+        "time": 2067.0,
+        "event": 0,
+        "expression": 15.54725605269814
+      },
+      {
+        "sample_id": "TCGA-62-A46V",
+        "time": 2199.0,
+        "event": 0,
+        "expression": 14.7520146992284
+      },
+      {
+        "sample_id": "TCGA-62-A46Y",
+        "time": 414.0,
+        "event": 1,
+        "expression": 16.558615028716584
+      },
+      {
+        "sample_id": "TCGA-62-A470",
+        "time": 1194.0,
+        "event": 1,
+        "expression": 14.655363010171412
+      },
+      {
+        "sample_id": "TCGA-62-A471",
+        "time": 1246.0,
+        "event": 0,
+        "expression": 14.640866264088567
+      },
+      {
+        "sample_id": "TCGA-62-A472",
+        "time": 910.0,
+        "event": 0,
+        "expression": 13.985308297255852
+      },
+      {
+        "sample_id": "TCGA-64-1676",
+        "time": 1728.0,
+        "event": 0,
+        "expression": 13.061371192659811
+      },
+      {
+        "sample_id": "TCGA-64-1677",
+        "time": 628.0,
+        "event": 1,
+        "expression": 12.7238742188639
+      },
+      {
+        "sample_id": "TCGA-64-1678",
+        "time": 1189.0,
+        "event": 0,
+        "expression": 11.997179480937621
+      },
+      {
+        "sample_id": "TCGA-64-1679",
+        "time": 2488.0,
+        "event": 0,
+        "expression": 12.594557879863732
+      },
+      {
+        "sample_id": "TCGA-64-1680",
+        "time": 1126.0,
+        "event": 0,
+        "expression": 12.895385939898507
+      },
+      {
+        "sample_id": "TCGA-64-1681",
+        "time": 1167.0,
+        "event": 1,
+        "expression": 13.926203321259905
+      },
+      {
+        "sample_id": "TCGA-64-5774",
+        "time": 2676.0,
+        "event": 0,
+        "expression": 12.424691191512954
+      },
+      {
+        "sample_id": "TCGA-64-5775",
+        "time": 62.0,
+        "event": 1,
+        "expression": 11.043710863347156
+      },
+      {
+        "sample_id": "TCGA-64-5778",
+        "time": 1305.0,
+        "event": 0,
+        "expression": 13.173208652765974
+      },
+      {
+        "sample_id": "TCGA-64-5779",
+        "time": 864.0,
+        "event": 0,
+        "expression": 14.583552930466485
+      },
+      {
+        "sample_id": "TCGA-64-5781",
+        "time": 1559.0,
+        "event": 0,
+        "expression": 12.267664537501119
+      },
+      {
+        "sample_id": "TCGA-64-5815",
+        "time": 866.0,
+        "event": 0,
+        "expression": 10.81698362325538
+      },
+      {
+        "sample_id": "TCGA-67-3770",
+        "time": 610.0,
+        "event": 0,
+        "expression": 11.965423565810129
+      },
+      {
+        "sample_id": "TCGA-67-3771",
+        "time": 610.0,
+        "event": 0,
+        "expression": 12.659326997414105
+      },
+      {
+        "sample_id": "TCGA-67-3772",
+        "time": 573.0,
+        "event": 0,
+        "expression": 11.558898981146703
+      },
+      {
+        "sample_id": "TCGA-67-3773",
+        "time": 427.0,
+        "event": 0,
+        "expression": 12.722380635163802
+      },
+      {
+        "sample_id": "TCGA-67-3774",
+        "time": 385.0,
+        "event": 0,
+        "expression": 13.536368649553852
+      },
+      {
+        "sample_id": "TCGA-67-4679",
+        "time": 448.0,
+        "event": 0,
+        "expression": 15.324567332846817
+      },
+      {
+        "sample_id": "TCGA-67-6215",
+        "time": 174.0,
+        "event": 0,
+        "expression": 15.914969006476776
+      },
+      {
+        "sample_id": "TCGA-67-6216",
+        "time": 141.0,
+        "event": 0,
+        "expression": 13.982815365189929
+      },
+      {
+        "sample_id": "TCGA-67-6217",
+        "time": 422.0,
+        "event": 0,
+        "expression": 14.262535340526282
+      },
+      {
+        "sample_id": "TCGA-69-7760",
+        "time": 202.0,
+        "event": 0,
+        "expression": 14.031701202740303
+      },
+      {
+        "sample_id": "TCGA-69-7761",
+        "time": 186.0,
+        "event": 0,
+        "expression": 14.83061423536284
+      },
+      {
+        "sample_id": "TCGA-69-7763",
+        "time": 690.0,
+        "event": 0,
+        "expression": 13.23511671439625
+      },
+      {
+        "sample_id": "TCGA-69-7764",
+        "time": 414.0,
+        "event": 0,
+        "expression": 16.120420147040573
+      },
+      {
+        "sample_id": "TCGA-69-7765",
+        "time": 165.0,
+        "event": 0,
+        "expression": 13.871520262329113
+      },
+      {
+        "sample_id": "TCGA-69-7973",
+        "time": 230.0,
+        "event": 0,
+        "expression": 14.58443407325384
+      },
+      {
+        "sample_id": "TCGA-69-7974",
+        "time": 184.0,
+        "event": 0,
+        "expression": 15.156083076288681
+      },
+      {
+        "sample_id": "TCGA-69-7978",
+        "time": 134.0,
+        "event": 0,
+        "expression": 14.922723759877828
+      },
+      {
+        "sample_id": "TCGA-69-7979",
+        "time": 408.0,
+        "event": 0,
+        "expression": 13.874309008818916
+      },
+      {
+        "sample_id": "TCGA-69-7980",
+        "time": 411.0,
+        "event": 0,
+        "expression": 14.934013307561008
+      },
+      {
+        "sample_id": "TCGA-69-8253",
+        "time": 426.0,
+        "event": 0,
+        "expression": 16.74745873368032
+      },
+      {
+        "sample_id": "TCGA-69-8254",
+        "time": 409.0,
+        "event": 0,
+        "expression": 15.309618456283072
+      },
+      {
+        "sample_id": "TCGA-69-8255",
+        "time": 129.0,
+        "event": 0,
+        "expression": 14.949188370286244
+      },
+      {
+        "sample_id": "TCGA-69-8453",
+        "time": 813.0,
+        "event": 0,
+        "expression": 14.025918158247874
+      },
+      {
+        "sample_id": "TCGA-69-A59K",
+        "time": 591.0,
+        "event": 0,
+        "expression": 16.161958518274073
+      },
+      {
+        "sample_id": "TCGA-71-6725",
+        "time": 256.0,
+        "event": 0,
+        "expression": 13.132339064219257
+      },
+      {
+        "sample_id": "TCGA-71-8520",
+        "time": 210.0,
+        "event": 1,
+        "expression": 13.700222950799255
+      },
+      {
+        "sample_id": "TCGA-73-4658",
+        "time": 1600.0,
+        "event": 1,
+        "expression": 11.97656412341533
+      },
+      {
+        "sample_id": "TCGA-73-4659",
+        "time": 711.0,
+        "event": 1,
+        "expression": 14.577487837588118
+      },
+      {
+        "sample_id": "TCGA-73-4662",
+        "time": 2515.0,
+        "event": 0,
+        "expression": 16.333067975145347
+      },
+      {
+        "sample_id": "TCGA-73-4666",
+        "time": 800.0,
+        "event": 0,
+        "expression": 15.87936786305772
+      },
+      {
+        "sample_id": "TCGA-73-4668",
+        "time": 467.0,
+        "event": 0,
+        "expression": 15.68258317265403
+      },
+      {
+        "sample_id": "TCGA-73-4670",
+        "time": 131.0,
+        "event": 0,
+        "expression": 14.193140302970734
+      },
+      {
+        "sample_id": "TCGA-73-4675",
+        "time": 922.0,
+        "event": 1,
+        "expression": 15.571130453758954
+      },
+      {
+        "sample_id": "TCGA-73-4676",
+        "time": 281.0,
+        "event": 1,
+        "expression": 13.274814914450836
+      },
+      {
+        "sample_id": "TCGA-73-4677",
+        "time": 38.0,
+        "event": 1,
+        "expression": 13.419433550705378
+      },
+      {
+        "sample_id": "TCGA-73-7498",
+        "time": 1189.0,
+        "event": 0,
+        "expression": 15.917372079476841
+      },
+      {
+        "sample_id": "TCGA-73-7499",
+        "time": 1531.0,
+        "event": 1,
+        "expression": 12.903317005908715
+      },
+      {
+        "sample_id": "TCGA-73-A9RS",
+        "time": 340.0,
+        "event": 1,
+        "expression": 13.50370153369617
+      },
+      {
+        "sample_id": "TCGA-75-5125",
+        "time": 2027.0,
+        "event": 1,
+        "expression": 14.658825122551846
+      },
+      {
+        "sample_id": "TCGA-75-5146",
+        "time": 2368.0,
+        "event": 0,
+        "expression": 11.42783660345852
+      },
+      {
+        "sample_id": "TCGA-75-5147",
+        "time": 1333.0,
+        "event": 0,
+        "expression": 13.551227603598289
+      },
+      {
+        "sample_id": "TCGA-75-6206",
+        "time": 2590.0,
+        "event": 0,
+        "expression": 12.7858611057596
+      },
+      {
+        "sample_id": "TCGA-75-6212",
+        "time": 1516.0,
+        "event": 1,
+        "expression": 12.66644593881483
+      },
+      {
+        "sample_id": "TCGA-75-6214",
+        "time": 1115.0,
+        "event": 1,
+        "expression": 14.718907414439348
+      },
+      {
+        "sample_id": "TCGA-75-7025",
+        "time": 3305.0,
+        "event": 0,
+        "expression": 16.116323652887314
+      },
+      {
+        "sample_id": "TCGA-75-7027",
+        "time": 3059.0,
+        "event": 0,
+        "expression": 14.411179935200575
+      },
+      {
+        "sample_id": "TCGA-78-7143",
+        "time": 4961.0,
+        "event": 1,
+        "expression": 14.70449808692826
+      },
+      {
+        "sample_id": "TCGA-78-7145",
+        "time": 826.0,
+        "event": 1,
+        "expression": 11.848231701093818
+      },
+      {
+        "sample_id": "TCGA-78-7146",
+        "time": 173.0,
+        "event": 1,
+        "expression": 14.668497230024583
+      },
+      {
+        "sample_id": "TCGA-78-7147",
+        "time": 586.0,
+        "event": 1,
+        "expression": 14.838465320418402
+      },
+      {
+        "sample_id": "TCGA-78-7148",
+        "time": 626.0,
+        "event": 1,
+        "expression": 11.954559846999834
+      },
+      {
+        "sample_id": "TCGA-78-7149",
+        "time": 3940.0,
+        "event": 0,
+        "expression": 14.115368837820224
+      },
+      {
+        "sample_id": "TCGA-78-7150",
+        "time": 666.0,
+        "event": 1,
+        "expression": 12.94982671075911
+      },
+      {
+        "sample_id": "TCGA-78-7152",
+        "time": 1215.0,
+        "event": 1,
+        "expression": 12.53430288245463
+      },
+      {
+        "sample_id": "TCGA-78-7153",
+        "time": 3635.0,
+        "event": 0,
+        "expression": 12.16804526822409
+      },
+      {
+        "sample_id": "TCGA-78-7154",
+        "time": 593.0,
+        "event": 1,
+        "expression": 12.424953571261042
+      },
+      {
+        "sample_id": "TCGA-78-7155",
+        "time": 1171.0,
+        "event": 1,
+        "expression": 11.456867738380343
+      },
+      {
+        "sample_id": "TCGA-78-7156",
+        "time": 976.0,
+        "event": 1,
+        "expression": 15.19829155509221
+      },
+      {
+        "sample_id": "TCGA-78-7158",
+        "time": 179.0,
+        "event": 1,
+        "expression": 13.69522829149575
+      },
+      {
+        "sample_id": "TCGA-78-7159",
+        "time": 1974.0,
+        "event": 0,
+        "expression": 13.432541900388259
+      },
+      {
+        "sample_id": "TCGA-78-7160",
+        "time": 697.0,
+        "event": 1,
+        "expression": 13.203348002979762
+      },
+      {
+        "sample_id": "TCGA-78-7161",
+        "time": 291.0,
+        "event": 1,
+        "expression": 15.634328937084364
+      },
+      {
+        "sample_id": "TCGA-78-7162",
+        "time": 3169.0,
+        "event": 1,
+        "expression": 13.058837332677816
+      },
+      {
+        "sample_id": "TCGA-78-7163",
+        "time": 7248.0,
+        "event": 0,
+        "expression": 15.251334464658857
+      },
+      {
+        "sample_id": "TCGA-78-7166",
+        "time": 258.0,
+        "event": 1,
+        "expression": 16.08426860464538
+      },
+      {
+        "sample_id": "TCGA-78-7167",
+        "time": 2681.0,
+        "event": 1,
+        "expression": 15.491446028586699
+      },
+      {
+        "sample_id": "TCGA-78-7220",
+        "time": 807.0,
+        "event": 1,
+        "expression": 15.61378946447258
+      },
+      {
+        "sample_id": "TCGA-78-7535",
+        "time": 949.0,
+        "event": 1,
+        "expression": 15.07028868996168
+      },
+      {
+        "sample_id": "TCGA-78-7536",
+        "time": 244.0,
+        "event": 1,
+        "expression": 13.413098984915264
+      },
+      {
+        "sample_id": "TCGA-78-7537",
+        "time": 1622.0,
+        "event": 1,
+        "expression": 14.338248903251525
+      },
+      {
+        "sample_id": "TCGA-78-7539",
+        "time": 791.0,
+        "event": 0,
+        "expression": 14.016982347533649
+      },
+      {
+        "sample_id": "TCGA-78-7540",
+        "time": 1197.0,
+        "event": 1,
+        "expression": 14.903269925939357
+      },
+      {
+        "sample_id": "TCGA-78-7542",
+        "time": 321.0,
+        "event": 1,
+        "expression": 14.78473707372698
+      },
+      {
+        "sample_id": "TCGA-78-7633",
+        "time": 1528.0,
+        "event": 1,
+        "expression": 14.664225040837929
+      },
+      {
+        "sample_id": "TCGA-78-8640",
+        "time": 7062.0,
+        "event": 0,
+        "expression": 13.800495500466813
+      },
+      {
+        "sample_id": "TCGA-78-8648",
+        "time": 1209.0,
+        "event": 1,
+        "expression": 14.088705437038639
+      },
+      {
+        "sample_id": "TCGA-78-8655",
+        "time": 2360.0,
+        "event": 0,
+        "expression": 13.576720525080246
+      },
+      {
+        "sample_id": "TCGA-78-8660",
+        "time": 321.0,
+        "event": 1,
+        "expression": 14.96031875424583
+      },
+      {
+        "sample_id": "TCGA-78-8662",
+        "time": 3361.0,
+        "event": 1,
+        "expression": 13.52552080909507
+      },
+      {
+        "sample_id": "TCGA-80-5608",
+        "time": 2832.0,
+        "event": 0,
+        "expression": 14.65954999687987
+      },
+      {
+        "sample_id": "TCGA-80-5611",
+        "time": 2595.0,
+        "event": 0,
+        "expression": 12.812377888766893
+      },
+      {
+        "sample_id": "TCGA-83-5908",
+        "time": 824.0,
+        "event": 0,
+        "expression": 15.28814512315342
+      },
+      {
+        "sample_id": "TCGA-86-6562",
+        "time": 376.0,
+        "event": 1,
+        "expression": 12.07815080773465
+      },
+      {
+        "sample_id": "TCGA-86-6851",
+        "time": 179.0,
+        "event": 0,
+        "expression": 15.578490630869629
+      },
+      {
+        "sample_id": "TCGA-86-7701",
+        "time": 947.0,
+        "event": 0,
+        "expression": 12.940313597145968
+      },
+      {
+        "sample_id": "TCGA-86-7711",
+        "time": 1046.0,
+        "event": 1,
+        "expression": 13.338039933107874
+      },
+      {
+        "sample_id": "TCGA-86-7713",
+        "time": 1157.0,
+        "event": 0,
+        "expression": 13.646671205381779
+      },
+      {
+        "sample_id": "TCGA-86-7714",
+        "time": 625.0,
+        "event": 1,
+        "expression": 12.728558297786716
+      },
+      {
+        "sample_id": "TCGA-86-7953",
+        "time": 997.0,
+        "event": 0,
+        "expression": 14.600551781118549
+      },
+      {
+        "sample_id": "TCGA-86-7954",
+        "time": 605.0,
+        "event": 0,
+        "expression": 14.56652978262417
+      },
+      {
+        "sample_id": "TCGA-86-7955",
+        "time": 1072.0,
+        "event": 0,
+        "expression": 14.272411089888779
+      },
+      {
+        "sample_id": "TCGA-86-8054",
+        "time": 1148.0,
+        "event": 0,
+        "expression": 14.527660263607913
+      },
+      {
+        "sample_id": "TCGA-86-8055",
+        "time": 124.0,
+        "event": 1,
+        "expression": 13.341518823245243
+      },
+      {
+        "sample_id": "TCGA-86-8056",
+        "time": 139.0,
+        "event": 0,
+        "expression": 16.40156287386669
+      },
+      {
+        "sample_id": "TCGA-86-8073",
+        "time": 740.0,
+        "event": 0,
+        "expression": 15.286160648175365
+      },
+      {
+        "sample_id": "TCGA-86-8074",
+        "time": 24.0,
+        "event": 0,
+        "expression": 14.409059396427892
+      },
+      {
+        "sample_id": "TCGA-86-8075",
+        "time": 694.0,
+        "event": 1,
+        "expression": 14.761447348013048
+      },
+      {
+        "sample_id": "TCGA-86-8076",
+        "time": 993.0,
+        "event": 0,
+        "expression": 14.016808287686555
+      },
+      {
+        "sample_id": "TCGA-86-8278",
+        "time": 944.0,
+        "event": 0,
+        "expression": 15.461799158099849
+      },
+      {
+        "sample_id": "TCGA-86-8279",
+        "time": 949.0,
+        "event": 0,
+        "expression": 15.60414779055995
+      },
+      {
+        "sample_id": "TCGA-86-8280",
+        "time": 701.0,
+        "event": 0,
+        "expression": 14.574179580035517
+      },
+      {
+        "sample_id": "TCGA-86-8358",
+        "time": 653.0,
+        "event": 0,
+        "expression": 13.733650916838716
+      },
+      {
+        "sample_id": "TCGA-86-8359",
+        "time": 444.0,
+        "event": 1,
+        "expression": 12.300066509957324
+      },
+      {
+        "sample_id": "TCGA-86-8585",
+        "time": 353.0,
+        "event": 0,
+        "expression": 15.04336911395769
+      },
+      {
+        "sample_id": "TCGA-86-8668",
+        "time": 423.0,
+        "event": 0,
+        "expression": 14.759003907962224
+      },
+      {
+        "sample_id": "TCGA-86-8669",
+        "time": 938.0,
+        "event": 0,
+        "expression": 13.979335872665384
+      },
+      {
+        "sample_id": "TCGA-86-8671",
+        "time": 839.0,
+        "event": 0,
+        "expression": 14.313591652572708
+      },
+      {
+        "sample_id": "TCGA-86-8672",
+        "time": 19.0,
+        "event": 1,
+        "expression": 13.654188473059545
+      },
+      {
+        "sample_id": "TCGA-86-8673",
+        "time": 862.0,
+        "event": 0,
+        "expression": 13.466968626739957
+      },
+      {
+        "sample_id": "TCGA-86-8674",
+        "time": 806.0,
+        "event": 0,
+        "expression": 14.932491598812403
+      },
+      {
+        "sample_id": "TCGA-86-A456",
+        "time": 896.0,
+        "event": 0,
+        "expression": 15.497103357016877
+      },
+      {
+        "sample_id": "TCGA-86-A4D0",
+        "time": 116.0,
+        "event": 1,
+        "expression": 14.13209803255202
+      },
+      {
+        "sample_id": "TCGA-86-A4JF",
+        "time": 737.0,
+        "event": 1,
+        "expression": 14.418313829340013
+      },
+      {
+        "sample_id": "TCGA-86-A4P7",
+        "time": 415.0,
+        "event": 0,
+        "expression": 15.418313829340013
+      },
+      {
+        "sample_id": "TCGA-86-A4P8",
+        "time": 805.0,
+        "event": 0,
+        "expression": 16.095912061332655
+      },
+      {
+        "sample_id": "TCGA-91-6828",
+        "time": 323.0,
+        "event": 0,
+        "expression": 13.65954999687987
+      },
+      {
+        "sample_id": "TCGA-91-6829",
+        "time": 1258.0,
+        "event": 1,
+        "expression": 12.689561254285525
+      },
+      {
+        "sample_id": "TCGA-91-6830",
+        "time": 60.0,
+        "event": 0,
+        "expression": 14.034627039197348
+      },
+      {
+        "sample_id": "TCGA-91-6831",
+        "time": 310.0,
+        "event": 0,
+        "expression": 13.040974598817305
+      },
+      {
+        "sample_id": "TCGA-91-6835",
+        "time": 79.0,
+        "event": 0,
+        "expression": 13.942697762886757
+      },
+      {
+        "sample_id": "TCGA-91-6836",
+        "time": 417.0,
+        "event": 0,
+        "expression": 13.177730967033272
+      },
+      {
+        "sample_id": "TCGA-91-6840",
+        "time": 372.0,
+        "event": 0,
+        "expression": 13.191521938128146
+      },
+      {
+        "sample_id": "TCGA-91-6847",
+        "time": 842.0,
+        "event": 0,
+        "expression": 14.053586543639176
+      },
+      {
+        "sample_id": "TCGA-91-6848",
+        "time": 224.0,
+        "event": 0,
+        "expression": 11.790755750118313
+      },
+      {
+        "sample_id": "TCGA-91-6849",
+        "time": 35.0,
+        "event": 0,
+        "expression": 14.28069828564088
+      },
+      {
+        "sample_id": "TCGA-91-7771",
+        "time": 492.0,
+        "event": 0,
+        "expression": 15.51625404600232
+      },
+      {
+        "sample_id": "TCGA-91-8496",
+        "time": 505.0,
+        "event": 0,
+        "expression": 12.419170165028538
+      },
+      {
+        "sample_id": "TCGA-91-8497",
+        "time": 434.0,
+        "event": 1,
+        "expression": 14.326359260771332
+      },
+      {
+        "sample_id": "TCGA-91-8499",
+        "time": 36.0,
+        "event": 0,
+        "expression": 10.24198314969433
+      },
+      {
+        "sample_id": "TCGA-91-A4BC",
+        "time": 44.0,
+        "event": 0,
+        "expression": 14.923234621009204
+      },
+      {
+        "sample_id": "TCGA-91-A4BD",
+        "time": 603.0,
+        "event": 0,
+        "expression": 14.90496383766561
+      },
+      {
+        "sample_id": "TCGA-93-7347",
+        "time": 683.0,
+        "event": 0,
+        "expression": 14.224303209373389
+      },
+      {
+        "sample_id": "TCGA-93-7348",
+        "time": 531.0,
+        "event": 0,
+        "expression": 15.332456200773848
+      },
+      {
+        "sample_id": "TCGA-93-8067",
+        "time": 186.0,
+        "event": 0,
+        "expression": 14.675681430701836
+      },
+      {
+        "sample_id": "TCGA-93-A4JN",
+        "time": 718.0,
+        "event": 0,
+        "expression": 15.021804150180538
+      },
+      {
+        "sample_id": "TCGA-93-A4JO",
+        "time": 33.0,
+        "event": 1,
+        "expression": 15.674633661767267
+      },
+      {
+        "sample_id": "TCGA-93-A4JP",
+        "time": 578.0,
+        "event": 0,
+        "expression": 15.6037132656711
+      },
+      {
+        "sample_id": "TCGA-93-A4JQ",
+        "time": 526.0,
+        "event": 0,
+        "expression": 14.913730912257197
+      },
+      {
+        "sample_id": "TCGA-95-7039",
+        "time": 1272.0,
+        "event": 0,
+        "expression": 13.371912741224104
+      },
+      {
+        "sample_id": "TCGA-95-7043",
+        "time": 503.0,
+        "event": 1,
+        "expression": 14.43905168059173
+      },
+      {
+        "sample_id": "TCGA-95-7562",
+        "time": 87.0,
+        "event": 1,
+        "expression": 12.04882741336389
+      },
+      {
+        "sample_id": "TCGA-95-7567",
+        "time": 568.0,
+        "event": 0,
+        "expression": 12.715104009236168
+      },
+      {
+        "sample_id": "TCGA-95-7944",
+        "time": 377.0,
+        "event": 0,
+        "expression": 14.198751965193736
+      },
+      {
+        "sample_id": "TCGA-95-7947",
+        "time": 477.0,
+        "event": 0,
+        "expression": 13.395534135462302
+      },
+      {
+        "sample_id": "TCGA-95-7948",
+        "time": 476.0,
+        "event": 0,
+        "expression": 14.615572167091743
+      },
+      {
+        "sample_id": "TCGA-95-8039",
+        "time": 830.0,
+        "event": 0,
+        "expression": 14.837282985334937
+      },
+      {
+        "sample_id": "TCGA-95-8494",
+        "time": 84.0,
+        "event": 0,
+        "expression": 15.605305884172921
+      },
+      {
+        "sample_id": "TCGA-95-A4VK",
+        "time": 651.0,
+        "event": 0,
+        "expression": 14.821225892877658
+      },
+      {
+        "sample_id": "TCGA-95-A4VN",
+        "time": 553.0,
+        "event": 0,
+        "expression": 14.747878274225881
+      },
+      {
+        "sample_id": "TCGA-95-A4VP",
+        "time": 605.0,
+        "event": 0,
+        "expression": 14.893064475528709
+      },
+      {
+        "sample_id": "TCGA-97-7546",
+        "time": 1285.0,
+        "event": 0,
+        "expression": 15.51868388760239
+      },
+      {
+        "sample_id": "TCGA-97-7547",
+        "time": 1965.0,
+        "event": 0,
+        "expression": 13.470150435274359
+      },
+      {
+        "sample_id": "TCGA-97-7552",
+        "time": 1932.0,
+        "event": 0,
+        "expression": 13.52955256311412
+      },
+      {
+        "sample_id": "TCGA-97-7553",
+        "time": 1870.0,
+        "event": 0,
+        "expression": 14.025226093694991
+      },
+      {
+        "sample_id": "TCGA-97-7554",
+        "time": 775.0,
+        "event": 0,
+        "expression": 12.925554439873554
+      },
+      {
+        "sample_id": "TCGA-97-7937",
+        "time": 564.0,
+        "event": 0,
+        "expression": 15.732061403613667
+      },
+      {
+        "sample_id": "TCGA-97-7938",
+        "time": 18.0,
+        "event": 1,
+        "expression": 14.085389466973655
+      },
+      {
+        "sample_id": "TCGA-97-7941",
+        "time": 484.0,
+        "event": 0,
+        "expression": 14.875413400077534
+      },
+      {
+        "sample_id": "TCGA-97-8171",
+        "time": 568.0,
+        "event": 0,
+        "expression": 17.225292179229108
+      },
+      {
+        "sample_id": "TCGA-97-8172",
+        "time": 545.0,
+        "event": 0,
+        "expression": 15.81180113673313
+      },
+      {
+        "sample_id": "TCGA-97-8174",
+        "time": 164.0,
+        "event": 1,
+        "expression": 15.400345796534694
+      },
+      {
+        "sample_id": "TCGA-97-8175",
+        "time": 551.0,
+        "event": 0,
+        "expression": 14.929073435876813
+      },
+      {
+        "sample_id": "TCGA-97-8176",
+        "time": 468.0,
+        "event": 1,
+        "expression": 14.376803698114138
+      },
+      {
+        "sample_id": "TCGA-97-8177",
+        "time": 499.0,
+        "event": 0,
+        "expression": 15.665058278279544
+      },
+      {
+        "sample_id": "TCGA-97-8179",
+        "time": 435.0,
+        "event": 0,
+        "expression": 15.280444561243863
+      },
+      {
+        "sample_id": "TCGA-97-8547",
+        "time": 657.0,
+        "event": 0,
+        "expression": 13.697402007502708
+      },
+      {
+        "sample_id": "TCGA-97-8552",
+        "time": 626.0,
+        "event": 0,
+        "expression": 15.278304252137033
+      },
+      {
+        "sample_id": "TCGA-97-A4LX",
+        "time": 614.0,
+        "event": 0,
+        "expression": 15.01314817145476
+      },
+      {
+        "sample_id": "TCGA-97-A4M0",
+        "time": 652.0,
+        "event": 0,
+        "expression": 15.53287334210846
+      },
+      {
+        "sample_id": "TCGA-97-A4M1",
+        "time": 601.0,
+        "event": 0,
+        "expression": 16.102139753410697
+      },
+      {
+        "sample_id": "TCGA-97-A4M2",
+        "time": 624.0,
+        "event": 0,
+        "expression": 16.07246760824186
+      },
+      {
+        "sample_id": "TCGA-97-A4M3",
+        "time": 540.0,
+        "event": 0,
+        "expression": 15.911345170655972
+      },
+      {
+        "sample_id": "TCGA-97-A4M5",
+        "time": 634.0,
+        "event": 0,
+        "expression": 15.119427511067276
+      },
+      {
+        "sample_id": "TCGA-97-A4M6",
+        "time": 568.0,
+        "event": 0,
+        "expression": 15.121614456218612
+      },
+      {
+        "sample_id": "TCGA-97-A4M7",
+        "time": 629.0,
+        "event": 0,
+        "expression": 15.569084224697232
+      },
+      {
+        "sample_id": "TCGA-99-7458",
+        "time": 747.0,
+        "event": 0,
+        "expression": 15.586781159696416
+      },
+      {
+        "sample_id": "TCGA-99-8025",
+        "time": 1060.0,
+        "event": 0,
+        "expression": 15.935510392996845
+      },
+      {
+        "sample_id": "TCGA-99-8028",
+        "time": 1118.0,
+        "event": 0,
+        "expression": 15.94571815646257
+      },
+      {
+        "sample_id": "TCGA-99-8032",
+        "time": 44.0,
+        "event": 0,
+        "expression": 15.741440651920128
+      },
+      {
+        "sample_id": "TCGA-99-8033",
+        "time": 656.0,
+        "event": 1,
+        "expression": 16.026004642978943
+      },
+      {
+        "sample_id": "TCGA-99-AA5R",
+        "time": 658.0,
+        "event": 0,
+        "expression": 15.95934543614535
+      },
+      {
+        "sample_id": "TCGA-J2-8192",
+        "time": 739.0,
+        "event": 0,
+        "expression": 15.487777241063759
+      },
+      {
+        "sample_id": "TCGA-J2-8194",
+        "time": 724.0,
+        "event": 0,
+        "expression": 14.227691144490155
+      },
+      {
+        "sample_id": "TCGA-J2-A4AD",
+        "time": 550.0,
+        "event": 1,
+        "expression": 14.967631554528513
+      },
+      {
+        "sample_id": "TCGA-J2-A4AE",
+        "time": 1079.0,
+        "event": 0,
+        "expression": 16.284553027344817
+      },
+      {
+        "sample_id": "TCGA-J2-A4AG",
+        "time": 988.0,
+        "event": 0,
+        "expression": 15.965784284662087
+      },
+      {
+        "sample_id": "TCGA-L4-A4E5",
+        "time": 578.0,
+        "event": 0,
+        "expression": 14.728079941808785
+      },
+      {
+        "sample_id": "TCGA-L4-A4E6",
+        "time": 435.0,
+        "event": 0,
+        "expression": 16.226487456635265
+      },
+      {
+        "sample_id": "TCGA-L9-A443",
+        "time": 193.0,
+        "event": 1,
+        "expression": 17.779283321259555
+      },
+      {
+        "sample_id": "TCGA-L9-A444",
+        "time": 307.0,
+        "event": 0,
+        "expression": 14.695282674330855
+      },
+      {
+        "sample_id": "TCGA-L9-A50W",
+        "time": 442.0,
+        "event": 1,
+        "expression": 13.804635230827737
+      },
+      {
+        "sample_id": "TCGA-L9-A5IP",
+        "time": 58.0,
+        "event": 1,
+        "expression": 15.272338184158624
+      },
+      {
+        "sample_id": "TCGA-L9-A743",
+        "time": 664.0,
+        "event": 0,
+        "expression": 15.74798314030195
+      },
+      {
+        "sample_id": "TCGA-L9-A7SV",
+        "time": 565.0,
+        "event": 0,
+        "expression": 16.01928666015092
+      },
+      {
+        "sample_id": "TCGA-L9-A8F4",
+        "time": 476.0,
+        "event": 0,
+        "expression": 15.772572322308326
+      },
+      {
+        "sample_id": "TCGA-MN-A4N1",
+        "time": 827.0,
+        "event": 0,
+        "expression": 14.228142268646705
+      },
+      {
+        "sample_id": "TCGA-MN-A4N4",
+        "time": 1175.0,
+        "event": 0,
+        "expression": 15.501650617446268
+      },
+      {
+        "sample_id": "TCGA-MN-A4N5",
+        "time": 84.0,
+        "event": 0,
+        "expression": 15.453367102012189
+      },
+      {
+        "sample_id": "TCGA-MP-A4SV",
+        "time": 2620.0,
+        "event": 1,
+        "expression": 15.306204128589329
+      },
+      {
+        "sample_id": "TCGA-MP-A4SW",
+        "time": 1778.0,
+        "event": 1,
+        "expression": 14.928842186571032
+      },
+      {
+        "sample_id": "TCGA-MP-A4SY",
+        "time": 1501.0,
+        "event": 1,
+        "expression": 15.291710313716255
+      },
+      {
+        "sample_id": "TCGA-MP-A4T4",
+        "time": 2617.0,
+        "event": 1,
+        "expression": 14.69098010188875
+      },
+      {
+        "sample_id": "TCGA-MP-A4T6",
+        "time": 1790.0,
+        "event": 1,
+        "expression": 15.856060723444713
+      },
+      {
+        "sample_id": "TCGA-MP-A4T7",
+        "time": 167.0,
+        "event": 1,
+        "expression": 15.845269513447567
+      },
+      {
+        "sample_id": "TCGA-MP-A4T8",
+        "time": 161.0,
+        "event": 1,
+        "expression": 14.224680039737523
+      },
+      {
+        "sample_id": "TCGA-MP-A4T9",
+        "time": 1265.0,
+        "event": 1,
+        "expression": 14.984640969874098
+      },
+      {
+        "sample_id": "TCGA-MP-A4TA",
+        "time": 950.0,
+        "event": 1,
+        "expression": 15.763264246456993
+      },
+      {
+        "sample_id": "TCGA-MP-A4TC",
+        "time": 74.0,
+        "event": 1,
+        "expression": 14.41679752760606
+      },
+      {
+        "sample_id": "TCGA-MP-A4TD",
+        "time": 307.0,
+        "event": 1,
+        "expression": 15.472183116189541
+      },
+      {
+        "sample_id": "TCGA-MP-A4TE",
+        "time": 896.0,
+        "event": 1,
+        "expression": 14.114311709822552
+      },
+      {
+        "sample_id": "TCGA-MP-A4TF",
+        "time": 336.0,
+        "event": 1,
+        "expression": 15.007990844782777
+      },
+      {
+        "sample_id": "TCGA-MP-A4TH",
+        "time": 741.0,
+        "event": 0,
+        "expression": 14.99744413897014
+      },
+      {
+        "sample_id": "TCGA-MP-A4TI",
+        "time": 429.0,
+        "event": 1,
+        "expression": 14.228067091082742
+      },
+      {
+        "sample_id": "TCGA-MP-A4TJ",
+        "time": 339.0,
+        "event": 1,
+        "expression": 15.106358462371988
+      },
+      {
+        "sample_id": "TCGA-MP-A4TK",
+        "time": 582.0,
+        "event": 1,
+        "expression": 14.658434654697617
+      },
+      {
+        "sample_id": "TCGA-MP-A5C7",
+        "time": 2248.0,
+        "event": 0,
+        "expression": 14.685077265027829
+      },
+      {
+        "sample_id": "TCGA-NJ-A4YF",
+        "time": 2161.0,
+        "event": 0,
+        "expression": 14.748769393000515
+      },
+      {
+        "sample_id": "TCGA-NJ-A4YG",
+        "time": 2261.0,
+        "event": 0,
+        "expression": 16.0713157056881
+      },
+      {
+        "sample_id": "TCGA-NJ-A4YI",
+        "time": 4.0,
+        "event": 1,
+        "expression": 14.159082935730904
+      },
+      {
+        "sample_id": "TCGA-NJ-A4YP",
+        "time": 50.0,
+        "event": 0,
+        "expression": 16.747825838329284
+      },
+      {
+        "sample_id": "TCGA-NJ-A4YQ",
+        "time": 1432.0,
+        "event": 0,
+        "expression": 14.720992350106707
+      },
+      {
+        "sample_id": "TCGA-NJ-A55A",
+        "time": 15.0,
+        "event": 0,
+        "expression": 14.49548031712162
+      },
+      {
+        "sample_id": "TCGA-NJ-A55O",
+        "time": 13.0,
+        "event": 0,
+        "expression": 15.091022089549105
+      },
+      {
+        "sample_id": "TCGA-NJ-A55R",
+        "time": 603.0,
+        "event": 0,
+        "expression": 16.58221550264911
+      },
+      {
+        "sample_id": "TCGA-NJ-A7XG",
+        "time": 617.0,
+        "event": 0,
+        "expression": 16.81428204004723
+      },
+      {
+        "sample_id": "TCGA-O1-A52J",
+        "time": 1798.0,
+        "event": 1,
+        "expression": 16.272812005562024
+      },
+      {
+        "sample_id": "TCGA-S2-AA1A",
+        "time": 513.0,
+        "event": 0,
+        "expression": 15.90072532336539
+      }
+    ],
+    "preparation": {
+      "expression_columns": 589,
+      "primary_tumor_columns": 528,
+      "unique_primary_patients": 516,
+      "clinical_project_rows": 641,
+      "clinical_patients_with_endpoint": 506,
+      "aligned_samples": 503,
+      "aligned_events": 182,
+      "excluded_non_primary": 61,
+      "excluded_duplicate_aliquots": 12,
+      "excluded_missing_endpoint": 13,
+      "excluded_unmatched_expression": 13
+    },
+    "expression_url": "https://gdc.xenahubs.net/download/TCGA-LUAD.star_counts.tsv.gz",
+    "clinical_url": "https://pancanatlas.xenahubs.net/download/Survival_SupplementalTable_S1_20171025_xena_sp",
+    "expression_sha256": "da89a71c9762f7e2e9773a826cc075bd82938e128bd31e315623a3d3f378dd90",
+    "clinical_sha256": "a5e704158bb5c51cded8a368accd999dfb259d428e88bbb0c4386078c5df9617",
+    "retrieved_at": "2026-09-14T00:00:00Z"
+  },
+  "analysis": {
+    "project_id": "TCGA-LUAD",
+    "gene": "NEAT1",
+    "sample_count": 503,
+    "event_count": 182,
+    "hazard_ratio": 0.9057276954134165,
+    "confidence_interval_lower": 0.6754358852633955,
+    "confidence_interval_upper": 1.2145381614111228,
+    "cox_p_value": 0.5082966465212277,
+    "log_rank_p_value": 0.5080620593411678,
+    "groups": [
+      {
+        "label": "low",
+        "sample_count": 252,
+        "event_count": 100,
+        "curve": [
+          {
+            "time": 0.0,
+            "at_risk": 252,
+            "events": 0,
+            "censored": 0,
+            "survival_probability": 1.0
+          },
+          {
+            "time": 4.0,
+            "at_risk": 252,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.996031746031746
+          },
+          {
+            "time": 18.0,
+            "at_risk": 251,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9920634920634921
+          },
+          {
+            "time": 19.0,
+            "at_risk": 250,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9880952380952381
+          },
+          {
+            "time": 22.0,
+            "at_risk": 249,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9841269841269841
+          },
+          {
+            "time": 35.0,
+            "at_risk": 248,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9841269841269841
+          },
+          {
+            "time": 36.0,
+            "at_risk": 247,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9841269841269841
+          },
+          {
+            "time": 38.0,
+            "at_risk": 246,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.980126467931346
+          },
+          {
+            "time": 48.0,
+            "at_risk": 245,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.980126467931346
+          },
+          {
+            "time": 60.0,
+            "at_risk": 244,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.980126467931346
+          },
+          {
+            "time": 62.0,
+            "at_risk": 243,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.9760930256764845
+          },
+          {
+            "time": 79.0,
+            "at_risk": 241,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9760930256764845
+          },
+          {
+            "time": 87.0,
+            "at_risk": 240,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9720259714028325
+          },
+          {
+            "time": 91.0,
+            "at_risk": 239,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9679589171291806
+          },
+          {
+            "time": 99.0,
+            "at_risk": 238,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9638918628555285
+          },
+          {
+            "time": 116.0,
+            "at_risk": 237,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9598248085818766
+          },
+          {
+            "time": 118.0,
+            "at_risk": 236,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9557577543082245
+          },
+          {
+            "time": 119.0,
+            "at_risk": 235,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.9516907000345725
+          },
+          {
+            "time": 121.0,
+            "at_risk": 233,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9476061905923641
+          },
+          {
+            "time": 124.0,
+            "at_risk": 232,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9435216811501557
+          },
+          {
+            "time": 131.0,
+            "at_risk": 231,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9435216811501557
+          },
+          {
+            "time": 139.0,
+            "at_risk": 230,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.939419412971242
+          },
+          {
+            "time": 141.0,
+            "at_risk": 229,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.939419412971242
+          },
+          {
+            "time": 151.0,
+            "at_risk": 228,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.939419412971242
+          },
+          {
+            "time": 161.0,
+            "at_risk": 227,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9352810014603554
+          },
+          {
+            "time": 165.0,
+            "at_risk": 226,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9352810014603554
+          },
+          {
+            "time": 171.0,
+            "at_risk": 225,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9311241970094205
+          },
+          {
+            "time": 179.0,
+            "at_risk": 224,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9269673925584856
+          },
+          {
+            "time": 182.0,
+            "at_risk": 223,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9269673925584856
+          },
+          {
+            "time": 187.0,
+            "at_risk": 222,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9227918637631771
+          },
+          {
+            "time": 189.0,
+            "at_risk": 221,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9186163349678687
+          },
+          {
+            "time": 202.0,
+            "at_risk": 220,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9186163349678687
+          },
+          {
+            "time": 210.0,
+            "at_risk": 219,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9144217398310291
+          },
+          {
+            "time": 224.0,
+            "at_risk": 218,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9144217398310291
+          },
+          {
+            "time": 225.0,
+            "at_risk": 217,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9144217398310291
+          },
+          {
+            "time": 237.0,
+            "at_risk": 216,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.91018830585033
+          },
+          {
+            "time": 244.0,
+            "at_risk": 215,
+            "events": 2,
+            "censored": 0,
+            "survival_probability": 0.9017214378889316
+          },
+          {
+            "time": 250.0,
+            "at_risk": 213,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8974880039082324
+          },
+          {
+            "time": 256.0,
+            "at_risk": 212,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8974880039082324
+          },
+          {
+            "time": 257.0,
+            "at_risk": 211,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8932345062593782
+          },
+          {
+            "time": 260.0,
+            "at_risk": 210,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.888981008610524
+          },
+          {
+            "time": 264.0,
+            "at_risk": 209,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.888981008610524
+          },
+          {
+            "time": 275.0,
+            "at_risk": 208,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8847070614537427
+          },
+          {
+            "time": 281.0,
+            "at_risk": 207,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8804331142969613
+          },
+          {
+            "time": 282.0,
+            "at_risk": 206,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8761591671401799
+          },
+          {
+            "time": 303.0,
+            "at_risk": 205,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8718852199833985
+          },
+          {
+            "time": 308.0,
+            "at_risk": 204,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8676112728266172
+          },
+          {
+            "time": 310.0,
+            "at_risk": 203,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8676112728266172
+          },
+          {
+            "time": 323.0,
+            "at_risk": 202,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8676112728266172
+          },
+          {
+            "time": 336.0,
+            "at_risk": 201,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.863294798832455
+          },
+          {
+            "time": 340.0,
+            "at_risk": 200,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8589783248382927
+          },
+          {
+            "time": 343.0,
+            "at_risk": 199,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8546618508441305
+          },
+          {
+            "time": 354.0,
+            "at_risk": 198,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.8503453768499681
+          },
+          {
+            "time": 370.0,
+            "at_risk": 196,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8460068800293051
+          },
+          {
+            "time": 372.0,
+            "at_risk": 195,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8460068800293051
+          },
+          {
+            "time": 376.0,
+            "at_risk": 194,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8416460198229685
+          },
+          {
+            "time": 377.0,
+            "at_risk": 193,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8416460198229685
+          },
+          {
+            "time": 385.0,
+            "at_risk": 192,
+            "events": 1,
+            "censored": 2,
+            "survival_probability": 0.8372624468030572
+          },
+          {
+            "time": 408.0,
+            "at_risk": 189,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8372624468030572
+          },
+          {
+            "time": 415.0,
+            "at_risk": 188,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8372624468030572
+          },
+          {
+            "time": 417.0,
+            "at_risk": 187,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8372624468030572
+          },
+          {
+            "time": 418.0,
+            "at_risk": 186,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8372624468030572
+          },
+          {
+            "time": 422.0,
+            "at_risk": 185,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8372624468030572
+          },
+          {
+            "time": 427.0,
+            "at_risk": 184,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8372624468030572
+          },
+          {
+            "time": 428.0,
+            "at_risk": 183,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8326872421757181
+          },
+          {
+            "time": 429.0,
+            "at_risk": 182,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.828112037548379
+          },
+          {
+            "time": 434.0,
+            "at_risk": 181,
+            "events": 2,
+            "censored": 0,
+            "survival_probability": 0.8189616282937008
+          },
+          {
+            "time": 435.0,
+            "at_risk": 179,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8189616282937008
+          },
+          {
+            "time": 442.0,
+            "at_risk": 178,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.8143607202695788
+          },
+          {
+            "time": 444.0,
+            "at_risk": 176,
+            "events": 2,
+            "censored": 0,
+            "survival_probability": 0.8051066211756064
+          },
+          {
+            "time": 446.0,
+            "at_risk": 174,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8051066211756064
+          },
+          {
+            "time": 448.0,
+            "at_risk": 173,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8051066211756064
+          },
+          {
+            "time": 455.0,
+            "at_risk": 172,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8051066211756064
+          },
+          {
+            "time": 457.0,
+            "at_risk": 171,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8051066211756064
+          },
+          {
+            "time": 460.0,
+            "at_risk": 170,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8003706998745734
+          },
+          {
+            "time": 477.0,
+            "at_risk": 169,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8003706998745734
+          },
+          {
+            "time": 478.0,
+            "at_risk": 168,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.7956065885657962
+          },
+          {
+            "time": 487.0,
+            "at_risk": 166,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7956065885657962
+          },
+          {
+            "time": 488.0,
+            "at_risk": 165,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7907847304532762
+          },
+          {
+            "time": 500.0,
+            "at_risk": 164,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7859628723407562
+          },
+          {
+            "time": 505.0,
+            "at_risk": 163,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7859628723407562
+          },
+          {
+            "time": 515.0,
+            "at_risk": 162,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7859628723407562
+          },
+          {
+            "time": 522.0,
+            "at_risk": 161,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7859628723407562
+          },
+          {
+            "time": 534.0,
+            "at_risk": 160,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7859628723407562
+          },
+          {
+            "time": 536.0,
+            "at_risk": 159,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7859628723407562
+          },
+          {
+            "time": 568.0,
+            "at_risk": 158,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7859628723407562
+          },
+          {
+            "time": 573.0,
+            "at_risk": 157,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7859628723407562
+          },
+          {
+            "time": 578.0,
+            "at_risk": 156,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7859628723407562
+          },
+          {
+            "time": 593.0,
+            "at_risk": 155,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7808921441321062
+          },
+          {
+            "time": 594.0,
+            "at_risk": 154,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7758214159234562
+          },
+          {
+            "time": 595.0,
+            "at_risk": 153,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7758214159234562
+          },
+          {
+            "time": 609.0,
+            "at_risk": 152,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7758214159234562
+          },
+          {
+            "time": 610.0,
+            "at_risk": 151,
+            "events": 0,
+            "censored": 3,
+            "survival_probability": 0.7758214159234562
+          },
+          {
+            "time": 617.0,
+            "at_risk": 148,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7758214159234562
+          },
+          {
+            "time": 624.0,
+            "at_risk": 147,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7705437192164939
+          },
+          {
+            "time": 625.0,
+            "at_risk": 146,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7652660225095316
+          },
+          {
+            "time": 626.0,
+            "at_risk": 145,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.7599883258025693
+          },
+          {
+            "time": 628.0,
+            "at_risk": 143,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7546737221256282
+          },
+          {
+            "time": 630.0,
+            "at_risk": 142,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7546737221256282
+          },
+          {
+            "time": 652.0,
+            "at_risk": 141,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7546737221256282
+          },
+          {
+            "time": 653.0,
+            "at_risk": 140,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.7492831955390166
+          },
+          {
+            "time": 657.0,
+            "at_risk": 138,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7492831955390166
+          },
+          {
+            "time": 658.0,
+            "at_risk": 137,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7492831955390166
+          },
+          {
+            "time": 666.0,
+            "at_risk": 136,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7437737602777003
+          },
+          {
+            "time": 669.0,
+            "at_risk": 135,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7437737602777003
+          },
+          {
+            "time": 670.0,
+            "at_risk": 134,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.7437737602777003
+          },
+          {
+            "time": 677.0,
+            "at_risk": 132,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7437737602777003
+          },
+          {
+            "time": 683.0,
+            "at_risk": 131,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7437737602777003
+          },
+          {
+            "time": 690.0,
+            "at_risk": 130,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7437737602777003
+          },
+          {
+            "time": 697.0,
+            "at_risk": 129,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.738008072213532
+          },
+          {
+            "time": 704.0,
+            "at_risk": 128,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.738008072213532
+          },
+          {
+            "time": 705.0,
+            "at_risk": 127,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.738008072213532
+          },
+          {
+            "time": 719.0,
+            "at_risk": 126,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.738008072213532
+          },
+          {
+            "time": 724.0,
+            "at_risk": 125,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.738008072213532
+          },
+          {
+            "time": 728.0,
+            "at_risk": 124,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.738008072213532
+          },
+          {
+            "time": 730.0,
+            "at_risk": 123,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.738008072213532
+          },
+          {
+            "time": 731.0,
+            "at_risk": 122,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7319588257199785
+          },
+          {
+            "time": 761.0,
+            "at_risk": 121,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.7319588257199785
+          },
+          {
+            "time": 773.0,
+            "at_risk": 119,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7319588257199785
+          },
+          {
+            "time": 775.0,
+            "at_risk": 118,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7319588257199785
+          },
+          {
+            "time": 777.0,
+            "at_risk": 117,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7257027673804916
+          },
+          {
+            "time": 791.0,
+            "at_risk": 116,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.7257027673804916
+          },
+          {
+            "time": 800.0,
+            "at_risk": 114,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7193369536315398
+          },
+          {
+            "time": 813.0,
+            "at_risk": 113,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7193369536315398
+          },
+          {
+            "time": 824.0,
+            "at_risk": 112,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7193369536315398
+          },
+          {
+            "time": 826.0,
+            "at_risk": 111,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7128564405357601
+          },
+          {
+            "time": 827.0,
+            "at_risk": 110,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7128564405357601
+          },
+          {
+            "time": 839.0,
+            "at_risk": 109,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7128564405357601
+          },
+          {
+            "time": 842.0,
+            "at_risk": 108,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7128564405357601
+          },
+          {
+            "time": 855.0,
+            "at_risk": 107,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7061942308111269
+          },
+          {
+            "time": 862.0,
+            "at_risk": 106,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7061942308111269
+          },
+          {
+            "time": 863.0,
+            "at_risk": 105,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7061942308111269
+          },
+          {
+            "time": 864.0,
+            "at_risk": 104,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6994039016687122
+          },
+          {
+            "time": 866.0,
+            "at_risk": 103,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6994039016687122
+          },
+          {
+            "time": 869.0,
+            "at_risk": 102,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6925470006719602
+          },
+          {
+            "time": 872.0,
+            "at_risk": 101,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6925470006719602
+          },
+          {
+            "time": 882.0,
+            "at_risk": 100,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.6925470006719602
+          },
+          {
+            "time": 889.0,
+            "at_risk": 98,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6925470006719602
+          },
+          {
+            "time": 896.0,
+            "at_risk": 97,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6854073408712184
+          },
+          {
+            "time": 905.0,
+            "at_risk": 96,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6782676810704765
+          },
+          {
+            "time": 910.0,
+            "at_risk": 95,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6782676810704765
+          },
+          {
+            "time": 912.0,
+            "at_risk": 94,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6782676810704765
+          },
+          {
+            "time": 913.0,
+            "at_risk": 93,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6782676810704765
+          },
+          {
+            "time": 929.0,
+            "at_risk": 92,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6708952062762322
+          },
+          {
+            "time": 930.0,
+            "at_risk": 91,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6708952062762322
+          },
+          {
+            "time": 938.0,
+            "at_risk": 90,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6708952062762322
+          },
+          {
+            "time": 947.0,
+            "at_risk": 89,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6708952062762322
+          },
+          {
+            "time": 987.0,
+            "at_risk": 88,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6632713971140023
+          },
+          {
+            "time": 993.0,
+            "at_risk": 87,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6632713971140023
+          },
+          {
+            "time": 995.0,
+            "at_risk": 86,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6555589390080255
+          },
+          {
+            "time": 1013.0,
+            "at_risk": 85,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6555589390080255
+          },
+          {
+            "time": 1043.0,
+            "at_risk": 84,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6477546659245966
+          },
+          {
+            "time": 1046.0,
+            "at_risk": 83,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6399503928411677
+          },
+          {
+            "time": 1072.0,
+            "at_risk": 82,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6399503928411677
+          },
+          {
+            "time": 1081.0,
+            "at_risk": 81,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6320497707073262
+          },
+          {
+            "time": 1097.0,
+            "at_risk": 80,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6320497707073262
+          },
+          {
+            "time": 1119.0,
+            "at_risk": 79,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6320497707073262
+          },
+          {
+            "time": 1125.0,
+            "at_risk": 78,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6320497707073262
+          },
+          {
+            "time": 1126.0,
+            "at_risk": 77,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.6320497707073262
+          },
+          {
+            "time": 1135.0,
+            "at_risk": 75,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6236224404312285
+          },
+          {
+            "time": 1147.0,
+            "at_risk": 74,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6151951101551308
+          },
+          {
+            "time": 1157.0,
+            "at_risk": 73,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6151951101551308
+          },
+          {
+            "time": 1163.0,
+            "at_risk": 72,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6151951101551308
+          },
+          {
+            "time": 1167.0,
+            "at_risk": 71,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.606530390293791
+          },
+          {
+            "time": 1171.0,
+            "at_risk": 70,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5978656704324511
+          },
+          {
+            "time": 1178.0,
+            "at_risk": 69,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5978656704324511
+          },
+          {
+            "time": 1183.0,
+            "at_risk": 68,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5978656704324511
+          },
+          {
+            "time": 1189.0,
+            "at_risk": 67,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5978656704324511
+          },
+          {
+            "time": 1209.0,
+            "at_risk": 66,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.588807099668323
+          },
+          {
+            "time": 1215.0,
+            "at_risk": 65,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.579748528904195
+          },
+          {
+            "time": 1233.0,
+            "at_risk": 64,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.579748528904195
+          },
+          {
+            "time": 1235.0,
+            "at_risk": 63,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5705461713025411
+          },
+          {
+            "time": 1258.0,
+            "at_risk": 62,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5613438137008873
+          },
+          {
+            "time": 1268.0,
+            "at_risk": 61,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5521414560992334
+          },
+          {
+            "time": 1272.0,
+            "at_risk": 60,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5521414560992334
+          },
+          {
+            "time": 1288.0,
+            "at_risk": 59,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5427831263348396
+          },
+          {
+            "time": 1289.0,
+            "at_risk": 58,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5427831263348396
+          },
+          {
+            "time": 1293.0,
+            "at_risk": 57,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.533260615346509
+          },
+          {
+            "time": 1301.0,
+            "at_risk": 56,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.533260615346509
+          },
+          {
+            "time": 1305.0,
+            "at_risk": 55,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.533260615346509
+          },
+          {
+            "time": 1324.0,
+            "at_risk": 54,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.533260615346509
+          },
+          {
+            "time": 1333.0,
+            "at_risk": 53,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.533260615346509
+          },
+          {
+            "time": 1351.0,
+            "at_risk": 52,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.533260615346509
+          },
+          {
+            "time": 1357.0,
+            "at_risk": 51,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5228045248495187
+          },
+          {
+            "time": 1367.0,
+            "at_risk": 50,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5228045248495187
+          },
+          {
+            "time": 1369.0,
+            "at_risk": 49,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5228045248495187
+          },
+          {
+            "time": 1379.0,
+            "at_risk": 48,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5119127639151537
+          },
+          {
+            "time": 1400.0,
+            "at_risk": 47,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5119127639151537
+          },
+          {
+            "time": 1421.0,
+            "at_risk": 46,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5007842255691721
+          },
+          {
+            "time": 1442.0,
+            "at_risk": 45,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5007842255691721
+          },
+          {
+            "time": 1474.0,
+            "at_risk": 44,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5007842255691721
+          },
+          {
+            "time": 1492.0,
+            "at_risk": 43,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.4891380807884937
+          },
+          {
+            "time": 1499.0,
+            "at_risk": 42,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.47749193600781525
+          },
+          {
+            "time": 1516.0,
+            "at_risk": 41,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.4658457912271368
+          },
+          {
+            "time": 1523.0,
+            "at_risk": 40,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4658457912271368
+          },
+          {
+            "time": 1531.0,
+            "at_risk": 39,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.4539010273495179
+          },
+          {
+            "time": 1559.0,
+            "at_risk": 38,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4539010273495179
+          },
+          {
+            "time": 1600.0,
+            "at_risk": 37,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.4416334320157472
+          },
+          {
+            "time": 1621.0,
+            "at_risk": 36,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4416334320157472
+          },
+          {
+            "time": 1632.0,
+            "at_risk": 35,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.4290153339581544
+          },
+          {
+            "time": 1683.0,
+            "at_risk": 34,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4290153339581544
+          },
+          {
+            "time": 1700.0,
+            "at_risk": 33,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4290153339581544
+          },
+          {
+            "time": 1728.0,
+            "at_risk": 32,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4290153339581544
+          },
+          {
+            "time": 1750.0,
+            "at_risk": 31,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4290153339581544
+          },
+          {
+            "time": 1830.0,
+            "at_risk": 30,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 1847.0,
+            "at_risk": 29,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 1864.0,
+            "at_risk": 28,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 1870.0,
+            "at_risk": 27,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 1893.0,
+            "at_risk": 26,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 1932.0,
+            "at_risk": 25,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 1965.0,
+            "at_risk": 24,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 1974.0,
+            "at_risk": 23,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 2065.0,
+            "at_risk": 22,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 2109.0,
+            "at_risk": 21,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4147148228262159
+          },
+          {
+            "time": 2174.0,
+            "at_risk": 20,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.3939790816849051
+          },
+          {
+            "time": 2318.0,
+            "at_risk": 19,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.3732433405435943
+          },
+          {
+            "time": 2360.0,
+            "at_risk": 18,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3732433405435943
+          },
+          {
+            "time": 2368.0,
+            "at_risk": 17,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3732433405435943
+          },
+          {
+            "time": 2393.0,
+            "at_risk": 16,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 2449.0,
+            "at_risk": 15,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 2488.0,
+            "at_risk": 14,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 2590.0,
+            "at_risk": 13,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 2595.0,
+            "at_risk": 12,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 2616.0,
+            "at_risk": 11,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 2676.0,
+            "at_risk": 10,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 2823.0,
+            "at_risk": 9,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 2973.0,
+            "at_risk": 8,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 3094.0,
+            "at_risk": 7,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.34991563175961965
+          },
+          {
+            "time": 3169.0,
+            "at_risk": 6,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.29159635979968307
+          },
+          {
+            "time": 3261.0,
+            "at_risk": 5,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.29159635979968307
+          },
+          {
+            "time": 3361.0,
+            "at_risk": 4,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.2186972698497623
+          },
+          {
+            "time": 3635.0,
+            "at_risk": 3,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2186972698497623
+          },
+          {
+            "time": 3940.0,
+            "at_risk": 2,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2186972698497623
+          },
+          {
+            "time": 7062.0,
+            "at_risk": 1,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2186972698497623
+          }
+        ]
+      },
+      {
+        "label": "high",
+        "sample_count": 251,
+        "event_count": 82,
+        "curve": [
+          {
+            "time": 0.0,
+            "at_risk": 251,
+            "events": 0,
+            "censored": 0,
+            "survival_probability": 1.0
+          },
+          {
+            "time": 11.0,
+            "at_risk": 251,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 1.0
+          },
+          {
+            "time": 13.0,
+            "at_risk": 250,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 1.0
+          },
+          {
+            "time": 14.0,
+            "at_risk": 249,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 1.0
+          },
+          {
+            "time": 15.0,
+            "at_risk": 248,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 1.0
+          },
+          {
+            "time": 24.0,
+            "at_risk": 247,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 1.0
+          },
+          {
+            "time": 28.0,
+            "at_risk": 246,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 1.0
+          },
+          {
+            "time": 33.0,
+            "at_risk": 245,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9959183673469387
+          },
+          {
+            "time": 44.0,
+            "at_risk": 244,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.9959183673469387
+          },
+          {
+            "time": 50.0,
+            "at_risk": 242,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9959183673469387
+          },
+          {
+            "time": 58.0,
+            "at_risk": 241,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9917859259886527
+          },
+          {
+            "time": 74.0,
+            "at_risk": 240,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9876534846303666
+          },
+          {
+            "time": 84.0,
+            "at_risk": 239,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.9876534846303666
+          },
+          {
+            "time": 97.0,
+            "at_risk": 237,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9834861703492259
+          },
+          {
+            "time": 129.0,
+            "at_risk": 236,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9834861703492259
+          },
+          {
+            "time": 133.0,
+            "at_risk": 235,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9834861703492259
+          },
+          {
+            "time": 134.0,
+            "at_risk": 234,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9834861703492259
+          },
+          {
+            "time": 139.0,
+            "at_risk": 233,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9834861703492259
+          },
+          {
+            "time": 154.0,
+            "at_risk": 232,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9792470058218585
+          },
+          {
+            "time": 164.0,
+            "at_risk": 231,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9750078412944913
+          },
+          {
+            "time": 167.0,
+            "at_risk": 230,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.970768676767124
+          },
+          {
+            "time": 173.0,
+            "at_risk": 229,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9665295122397566
+          },
+          {
+            "time": 174.0,
+            "at_risk": 228,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9665295122397566
+          },
+          {
+            "time": 176.0,
+            "at_risk": 227,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9622716729787885
+          },
+          {
+            "time": 179.0,
+            "at_risk": 226,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9622716729787885
+          },
+          {
+            "time": 184.0,
+            "at_risk": 225,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9622716729787885
+          },
+          {
+            "time": 186.0,
+            "at_risk": 224,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.9622716729787885
+          },
+          {
+            "time": 193.0,
+            "at_risk": 222,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9579371158932984
+          },
+          {
+            "time": 218.0,
+            "at_risk": 221,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9579371158932984
+          },
+          {
+            "time": 230.0,
+            "at_risk": 220,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9579371158932984
+          },
+          {
+            "time": 243.0,
+            "at_risk": 219,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9535629738115939
+          },
+          {
+            "time": 258.0,
+            "at_risk": 218,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9491888317298894
+          },
+          {
+            "time": 260.0,
+            "at_risk": 217,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9491888317298894
+          },
+          {
+            "time": 268.0,
+            "at_risk": 216,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9447944389903992
+          },
+          {
+            "time": 274.0,
+            "at_risk": 215,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.940400046250909
+          },
+          {
+            "time": 285.0,
+            "at_risk": 214,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.940400046250909
+          },
+          {
+            "time": 287.0,
+            "at_risk": 213,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.940400046250909
+          },
+          {
+            "time": 291.0,
+            "at_risk": 212,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9359641969761405
+          },
+          {
+            "time": 300.0,
+            "at_risk": 211,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.931528347701372
+          },
+          {
+            "time": 307.0,
+            "at_risk": 210,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.9270924984266036
+          },
+          {
+            "time": 321.0,
+            "at_risk": 208,
+            "events": 2,
+            "censored": 0,
+            "survival_probability": 0.918178147480194
+          },
+          {
+            "time": 336.0,
+            "at_risk": 206,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9137209720069892
+          },
+          {
+            "time": 339.0,
+            "at_risk": 205,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9092637965337844
+          },
+          {
+            "time": 351.0,
+            "at_risk": 204,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9092637965337844
+          },
+          {
+            "time": 353.0,
+            "at_risk": 203,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9092637965337844
+          },
+          {
+            "time": 365.0,
+            "at_risk": 202,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9092637965337844
+          },
+          {
+            "time": 375.0,
+            "at_risk": 201,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.9047400960535169
+          },
+          {
+            "time": 409.0,
+            "at_risk": 200,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.9002163955732493
+          },
+          {
+            "time": 411.0,
+            "at_risk": 198,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.9002163955732493
+          },
+          {
+            "time": 414.0,
+            "at_risk": 197,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.895646769199781
+          },
+          {
+            "time": 415.0,
+            "at_risk": 195,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.895646769199781
+          },
+          {
+            "time": 416.0,
+            "at_risk": 194,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.895646769199781
+          },
+          {
+            "time": 423.0,
+            "at_risk": 193,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.895646769199781
+          },
+          {
+            "time": 424.0,
+            "at_risk": 192,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.895646769199781
+          },
+          {
+            "time": 426.0,
+            "at_risk": 191,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.895646769199781
+          },
+          {
+            "time": 435.0,
+            "at_risk": 189,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.895646769199781
+          },
+          {
+            "time": 440.0,
+            "at_risk": 187,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.895646769199781
+          },
+          {
+            "time": 448.0,
+            "at_risk": 186,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.895646769199781
+          },
+          {
+            "time": 457.0,
+            "at_risk": 185,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8908054353122147
+          },
+          {
+            "time": 462.0,
+            "at_risk": 184,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8908054353122147
+          },
+          {
+            "time": 464.0,
+            "at_risk": 183,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8859376460482135
+          },
+          {
+            "time": 466.0,
+            "at_risk": 182,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8859376460482135
+          },
+          {
+            "time": 467.0,
+            "at_risk": 181,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8859376460482135
+          },
+          {
+            "time": 468.0,
+            "at_risk": 180,
+            "events": 2,
+            "censored": 0,
+            "survival_probability": 0.8760938944254556
+          },
+          {
+            "time": 469.0,
+            "at_risk": 178,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8711720186140767
+          },
+          {
+            "time": 476.0,
+            "at_risk": 177,
+            "events": 0,
+            "censored": 3,
+            "survival_probability": 0.8711720186140767
+          },
+          {
+            "time": 481.0,
+            "at_risk": 174,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8711720186140767
+          },
+          {
+            "time": 484.0,
+            "at_risk": 173,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8711720186140767
+          },
+          {
+            "time": 486.0,
+            "at_risk": 172,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8711720186140767
+          },
+          {
+            "time": 492.0,
+            "at_risk": 171,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8711720186140767
+          },
+          {
+            "time": 499.0,
+            "at_risk": 170,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8711720186140767
+          },
+          {
+            "time": 503.0,
+            "at_risk": 169,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 513.0,
+            "at_risk": 168,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 515.0,
+            "at_risk": 167,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 520.0,
+            "at_risk": 166,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 526.0,
+            "at_risk": 165,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 531.0,
+            "at_risk": 164,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 537.0,
+            "at_risk": 163,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 539.0,
+            "at_risk": 162,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 540.0,
+            "at_risk": 161,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 541.0,
+            "at_risk": 160,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 545.0,
+            "at_risk": 159,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 546.0,
+            "at_risk": 158,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 547.0,
+            "at_risk": 157,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8660171545986087
+          },
+          {
+            "time": 550.0,
+            "at_risk": 156,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.860465762581951
+          },
+          {
+            "time": 551.0,
+            "at_risk": 155,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.860465762581951
+          },
+          {
+            "time": 552.0,
+            "at_risk": 154,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.860465762581951
+          },
+          {
+            "time": 553.0,
+            "at_risk": 153,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.860465762581951
+          },
+          {
+            "time": 557.0,
+            "at_risk": 152,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.854804803617596
+          },
+          {
+            "time": 561.0,
+            "at_risk": 151,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8491438446532411
+          },
+          {
+            "time": 564.0,
+            "at_risk": 150,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8491438446532411
+          },
+          {
+            "time": 565.0,
+            "at_risk": 149,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8491438446532411
+          },
+          {
+            "time": 567.0,
+            "at_risk": 148,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8491438446532411
+          },
+          {
+            "time": 568.0,
+            "at_risk": 147,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.8491438446532411
+          },
+          {
+            "time": 574.0,
+            "at_risk": 145,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8432876802073567
+          },
+          {
+            "time": 578.0,
+            "at_risk": 144,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.8432876802073567
+          },
+          {
+            "time": 582.0,
+            "at_risk": 142,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8373490345720936
+          },
+          {
+            "time": 586.0,
+            "at_risk": 141,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8314103889368306
+          },
+          {
+            "time": 591.0,
+            "at_risk": 140,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8314103889368306
+          },
+          {
+            "time": 592.0,
+            "at_risk": 139,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8314103889368306
+          },
+          {
+            "time": 596.0,
+            "at_risk": 138,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8314103889368306
+          },
+          {
+            "time": 598.0,
+            "at_risk": 137,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8253416999664888
+          },
+          {
+            "time": 599.0,
+            "at_risk": 136,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8253416999664888
+          },
+          {
+            "time": 600.0,
+            "at_risk": 135,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8253416999664888
+          },
+          {
+            "time": 601.0,
+            "at_risk": 134,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8253416999664888
+          },
+          {
+            "time": 603.0,
+            "at_risk": 133,
+            "events": 0,
+            "censored": 3,
+            "survival_probability": 0.8253416999664888
+          },
+          {
+            "time": 605.0,
+            "at_risk": 130,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.8253416999664888
+          },
+          {
+            "time": 607.0,
+            "at_risk": 128,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.8188937179355006
+          },
+          {
+            "time": 608.0,
+            "at_risk": 126,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8188937179355006
+          },
+          {
+            "time": 614.0,
+            "at_risk": 125,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.8123425681920166
+          },
+          {
+            "time": 617.0,
+            "at_risk": 123,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8123425681920166
+          },
+          {
+            "time": 624.0,
+            "at_risk": 122,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8123425681920166
+          },
+          {
+            "time": 626.0,
+            "at_risk": 121,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8123425681920166
+          },
+          {
+            "time": 629.0,
+            "at_risk": 120,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8123425681920166
+          },
+          {
+            "time": 634.0,
+            "at_risk": 119,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8123425681920166
+          },
+          {
+            "time": 651.0,
+            "at_risk": 118,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.8123425681920166
+          },
+          {
+            "time": 652.0,
+            "at_risk": 116,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8123425681920166
+          },
+          {
+            "time": 656.0,
+            "at_risk": 115,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.8052787197729556
+          },
+          {
+            "time": 658.0,
+            "at_risk": 114,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8052787197729556
+          },
+          {
+            "time": 664.0,
+            "at_risk": 113,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8052787197729556
+          },
+          {
+            "time": 674.0,
+            "at_risk": 112,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.8052787197729556
+          },
+          {
+            "time": 677.0,
+            "at_risk": 111,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7980239565317578
+          },
+          {
+            "time": 689.0,
+            "at_risk": 110,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7980239565317578
+          },
+          {
+            "time": 691.0,
+            "at_risk": 109,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7980239565317578
+          },
+          {
+            "time": 694.0,
+            "at_risk": 108,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7906348458231304
+          },
+          {
+            "time": 701.0,
+            "at_risk": 107,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.783245735114503
+          },
+          {
+            "time": 702.0,
+            "at_risk": 105,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7757862519229364
+          },
+          {
+            "time": 704.0,
+            "at_risk": 104,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7757862519229364
+          },
+          {
+            "time": 705.0,
+            "at_risk": 103,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7757862519229364
+          },
+          {
+            "time": 711.0,
+            "at_risk": 102,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7681805043550645
+          },
+          {
+            "time": 718.0,
+            "at_risk": 101,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7681805043550645
+          },
+          {
+            "time": 719.0,
+            "at_risk": 100,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7604986993115138
+          },
+          {
+            "time": 737.0,
+            "at_risk": 99,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7528168942679632
+          },
+          {
+            "time": 739.0,
+            "at_risk": 98,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7528168942679632
+          },
+          {
+            "time": 740.0,
+            "at_risk": 97,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7528168942679632
+          },
+          {
+            "time": 741.0,
+            "at_risk": 96,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7528168942679632
+          },
+          {
+            "time": 747.0,
+            "at_risk": 95,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7528168942679632
+          },
+          {
+            "time": 760.0,
+            "at_risk": 94,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7448082039034104
+          },
+          {
+            "time": 761.0,
+            "at_risk": 93,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7367995135388576
+          },
+          {
+            "time": 791.0,
+            "at_risk": 92,
+            "events": 0,
+            "censored": 2,
+            "survival_probability": 0.7367995135388576
+          },
+          {
+            "time": 800.0,
+            "at_risk": 90,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7367995135388576
+          },
+          {
+            "time": 805.0,
+            "at_risk": 89,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7367995135388576
+          },
+          {
+            "time": 806.0,
+            "at_risk": 88,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7367995135388576
+          },
+          {
+            "time": 807.0,
+            "at_risk": 87,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7283305536131237
+          },
+          {
+            "time": 808.0,
+            "at_risk": 86,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7198615936873897
+          },
+          {
+            "time": 824.0,
+            "at_risk": 85,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7198615936873897
+          },
+          {
+            "time": 829.0,
+            "at_risk": 84,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7198615936873897
+          },
+          {
+            "time": 830.0,
+            "at_risk": 83,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7198615936873897
+          },
+          {
+            "time": 845.0,
+            "at_risk": 82,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7198615936873897
+          },
+          {
+            "time": 852.0,
+            "at_risk": 81,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7198615936873897
+          },
+          {
+            "time": 864.0,
+            "at_risk": 80,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7198615936873897
+          },
+          {
+            "time": 879.0,
+            "at_risk": 79,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.7107494216153974
+          },
+          {
+            "time": 888.0,
+            "at_risk": 78,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7107494216153974
+          },
+          {
+            "time": 889.0,
+            "at_risk": 77,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7107494216153974
+          },
+          {
+            "time": 896.0,
+            "at_risk": 76,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.7013974555415106
+          },
+          {
+            "time": 904.0,
+            "at_risk": 74,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.7013974555415106
+          },
+          {
+            "time": 922.0,
+            "at_risk": 73,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6917892712190241
+          },
+          {
+            "time": 944.0,
+            "at_risk": 72,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6917892712190241
+          },
+          {
+            "time": 949.0,
+            "at_risk": 71,
+            "events": 1,
+            "censored": 1,
+            "survival_probability": 0.6820457603567843
+          },
+          {
+            "time": 950.0,
+            "at_risk": 69,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6721610391921933
+          },
+          {
+            "time": 952.0,
+            "at_risk": 68,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6622763180276022
+          },
+          {
+            "time": 976.0,
+            "at_risk": 67,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6523915968630111
+          },
+          {
+            "time": 977.0,
+            "at_risk": 66,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6523915968630111
+          },
+          {
+            "time": 988.0,
+            "at_risk": 65,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6523915968630111
+          },
+          {
+            "time": 995.0,
+            "at_risk": 64,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6421979781620265
+          },
+          {
+            "time": 997.0,
+            "at_risk": 63,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6421979781620265
+          },
+          {
+            "time": 999.0,
+            "at_risk": 62,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6318399462561873
+          },
+          {
+            "time": 1026.0,
+            "at_risk": 61,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6214819143503482
+          },
+          {
+            "time": 1036.0,
+            "at_risk": 60,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6214819143503482
+          },
+          {
+            "time": 1040.0,
+            "at_risk": 59,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6214819143503482
+          },
+          {
+            "time": 1060.0,
+            "at_risk": 58,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6214819143503482
+          },
+          {
+            "time": 1071.0,
+            "at_risk": 57,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6214819143503482
+          },
+          {
+            "time": 1073.0,
+            "at_risk": 56,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.6103840230226634
+          },
+          {
+            "time": 1079.0,
+            "at_risk": 55,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.6103840230226634
+          },
+          {
+            "time": 1115.0,
+            "at_risk": 54,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5990806151889103
+          },
+          {
+            "time": 1118.0,
+            "at_risk": 53,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5990806151889103
+          },
+          {
+            "time": 1130.0,
+            "at_risk": 52,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5990806151889103
+          },
+          {
+            "time": 1148.0,
+            "at_risk": 51,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5990806151889103
+          },
+          {
+            "time": 1159.0,
+            "at_risk": 50,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5990806151889103
+          },
+          {
+            "time": 1175.0,
+            "at_risk": 49,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5990806151889103
+          },
+          {
+            "time": 1189.0,
+            "at_risk": 48,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5990806151889103
+          },
+          {
+            "time": 1194.0,
+            "at_risk": 47,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5863342191210611
+          },
+          {
+            "time": 1197.0,
+            "at_risk": 46,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.573587823053212
+          },
+          {
+            "time": 1216.0,
+            "at_risk": 45,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.573587823053212
+          },
+          {
+            "time": 1229.0,
+            "at_risk": 44,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.560551736165639
+          },
+          {
+            "time": 1239.0,
+            "at_risk": 43,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.560551736165639
+          },
+          {
+            "time": 1246.0,
+            "at_risk": 42,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.560551736165639
+          },
+          {
+            "time": 1265.0,
+            "at_risk": 41,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5468797426006234
+          },
+          {
+            "time": 1280.0,
+            "at_risk": 40,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5468797426006234
+          },
+          {
+            "time": 1285.0,
+            "at_risk": 39,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5468797426006234
+          },
+          {
+            "time": 1429.0,
+            "at_risk": 38,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5468797426006234
+          },
+          {
+            "time": 1431.0,
+            "at_risk": 37,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5468797426006234
+          },
+          {
+            "time": 1432.0,
+            "at_risk": 36,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5468797426006234
+          },
+          {
+            "time": 1454.0,
+            "at_risk": 35,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.5312546070977485
+          },
+          {
+            "time": 1479.0,
+            "at_risk": 34,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.5312546070977485
+          },
+          {
+            "time": 1498.0,
+            "at_risk": 33,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.515155982640241
+          },
+          {
+            "time": 1501.0,
+            "at_risk": 32,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.49905735818273345
+          },
+          {
+            "time": 1528.0,
+            "at_risk": 31,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.4829587337252259
+          },
+          {
+            "time": 1617.0,
+            "at_risk": 30,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.4829587337252259
+          },
+          {
+            "time": 1622.0,
+            "at_risk": 29,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.46630498428642503
+          },
+          {
+            "time": 1653.0,
+            "at_risk": 28,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.44965123484762415
+          },
+          {
+            "time": 1725.0,
+            "at_risk": 27,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.43299748540882327
+          },
+          {
+            "time": 1778.0,
+            "at_risk": 26,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.4163437359700224
+          },
+          {
+            "time": 1790.0,
+            "at_risk": 25,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.39968998653122145
+          },
+          {
+            "time": 1798.0,
+            "at_risk": 24,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.3830362370924206
+          },
+          {
+            "time": 2027.0,
+            "at_risk": 23,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.3663824876536197
+          },
+          {
+            "time": 2067.0,
+            "at_risk": 22,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3663824876536197
+          },
+          {
+            "time": 2137.0,
+            "at_risk": 21,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3663824876536197
+          },
+          {
+            "time": 2161.0,
+            "at_risk": 20,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3663824876536197
+          },
+          {
+            "time": 2199.0,
+            "at_risk": 19,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3663824876536197
+          },
+          {
+            "time": 2224.0,
+            "at_risk": 18,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3663824876536197
+          },
+          {
+            "time": 2248.0,
+            "at_risk": 17,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3663824876536197
+          },
+          {
+            "time": 2261.0,
+            "at_risk": 16,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3663824876536197
+          },
+          {
+            "time": 2515.0,
+            "at_risk": 15,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.3663824876536197
+          },
+          {
+            "time": 2617.0,
+            "at_risk": 14,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.3402123099640754
+          },
+          {
+            "time": 2620.0,
+            "at_risk": 13,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.31404213227453115
+          },
+          {
+            "time": 2681.0,
+            "at_risk": 12,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.2878719545849869
+          },
+          {
+            "time": 2696.0,
+            "at_risk": 11,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2878719545849869
+          },
+          {
+            "time": 2832.0,
+            "at_risk": 10,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2878719545849869
+          },
+          {
+            "time": 3059.0,
+            "at_risk": 9,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2878719545849869
+          },
+          {
+            "time": 3305.0,
+            "at_risk": 8,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2878719545849869
+          },
+          {
+            "time": 3674.0,
+            "at_risk": 7,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2878719545849869
+          },
+          {
+            "time": 3759.0,
+            "at_risk": 6,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2878719545849869
+          },
+          {
+            "time": 4765.0,
+            "at_risk": 5,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.2878719545849869
+          },
+          {
+            "time": 4961.0,
+            "at_risk": 4,
+            "events": 1,
+            "censored": 0,
+            "survival_probability": 0.21590396593874017
+          },
+          {
+            "time": 4992.0,
+            "at_risk": 3,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.21590396593874017
+          },
+          {
+            "time": 6732.0,
+            "at_risk": 2,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.21590396593874017
+          },
+          {
+            "time": 7248.0,
+            "at_risk": 1,
+            "events": 0,
+            "censored": 1,
+            "survival_probability": 0.21590396593874017
+          }
+        ]
+      }
+    ],
+    "configuration": {
+      "endpoint": "OS",
+      "grouping_method": "median",
+      "expression_cutoff": 14.326359260771332,
+      "high_group_rule": "expression > median; ties assigned to low",
+      "cox_covariate": "high-expression indicator (high vs low)",
+      "ties_method": "Breslow",
+      "alpha": 0.05,
+      "min_samples": 20,
+      "min_events": 5
+    },
+    "diagnostics": {
+      "converged": true,
+      "iterations": 4,
+      "coefficient": -0.09901657505428067,
+      "standard_error": 0.14968666150723028
+    }
+  },
+  "analysis_provenance": [
+    {
+      "source": "TCGA PanCanAtlas survival table sha256:a5e704158bb5c51cded8a368accd999dfb259d428e88bbb0c4386078c5df9617",
+      "source_id": "TCGA-LUAD",
+      "query": null,
+      "dataset_version": null
+    },
+    {
+      "source": "UCSC Xena GDC-hub STAR counts sha256:da89a71c9762f7e2e9773a826cc075bd82938e128bd31e315623a3d3f378dd90; gene=ENSG00000245532; scale=Xena GDC-hub transformed STAR-count value",
+      "source_id": "NEAT1",
+      "query": null,
+      "dataset_version": null
+    }
+  ]
+}

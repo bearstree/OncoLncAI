@@ -1,0 +1,31 @@
+[
+  {
+    "lncrna_id": "NEAT1",
+    "predicted_compartment": "nuclear",
+    "probabilities": [
+      {"compartment": "nuclear", "probability": 0.82},
+      {"compartment": "cytoplasmic", "probability": 0.18}
+    ],
+    "sequence_length": 3756,
+    "model": {
+      "model_name": "mock localization model",
+      "model_version": "fixture-1",
+      "source": "mock precomputed fixture",
+      "artifact_uri": null,
+      "artifact_sha256": null
+    }
+  },
+  {
+    "lncrna_id": "MALAT1",
+    "predicted_compartment": "nuclear",
+    "probabilities": null,
+    "sequence_length": null,
+    "model": {
+      "model_name": "curated localization lookup",
+      "model_version": "fixture-1",
+      "source": "precomputed fixture",
+      "artifact_uri": null,
+      "artifact_sha256": null
+    }
+  }
+]

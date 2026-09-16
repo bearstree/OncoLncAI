@@ -1,0 +1,15 @@
+*
+!Dockerfile
+!.dockerignore
+!requirements.lock
+!requirements.txt
+!pyproject.toml
+!README.md
+!app.py
+!src/
+!src/**
+!app/
+!app/**
+**/__pycache__/
+**/*.py[cod]
+**/.gitkeep

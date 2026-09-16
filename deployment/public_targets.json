@@ -1,0 +1,11 @@
+{
+  "github": {
+    "repository": "bearstree/OncoLncAI",
+    "url": "https://github.com/bearstree/OncoLncAI"
+  },
+  "hugging_face": {
+    "space_id": "weiyi/OncoLncAI",
+    "url": "https://huggingface.co/spaces/weiyi/OncoLncAI",
+    "sdk": "gradio"
+  }
+}

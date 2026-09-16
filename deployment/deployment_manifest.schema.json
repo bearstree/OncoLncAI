@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DeploymentManifest",
+  "description": "Build identity, provenance, entry points, and hosting boundaries for a curated OncoLncAI release.",
+  "type": "object",
+  "required": ["project_name", "project_version", "source_git_sha", "git_dirty", "build_timestamp_utc", "python_version", "dependency_versions", "lockfile_sha256", "public_content_sha256", "supported_modes", "tested_tcga_projects", "entry_points"],
+  "additionalProperties": false
+}

@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oncolncai"
+version = "0.1.0"
+description = "Evidence-to-validation tooling for cancer lncRNA biomarker research"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26,<3",
+    "pydantic>=2.8,<3",
+    "scipy>=1.11,<2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<10",
+]
+service = [
+    "gradio==6.23.1",
+]
+statistics = [
+    "pydeseq2>=0.5,<1",
+    "pandas>=2.2,<4",
+]
+training = [
+    "torch>=2.4,<3",
+    "transformers>=4.45,<6",
+    "peft>=0.13,<1",
+    "accelerate>=1,<2",
+    "bitsandbytes>=0.45,<1",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "-ra -p no:cacheprovider"
+pythonpath = ["src"]
+testpaths = ["tests"]

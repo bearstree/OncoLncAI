@@ -1,0 +1,92 @@
+{
+  "project_name": "oncolncai",
+  "project_version": "0.1.0",
+  "source_git_sha": "9e1208a1abb8d9c59f3fb2cb297566e775bd201e",
+  "git_dirty": false,
+  "build_timestamp_utc": "2026-09-16T22:07:08.714457+00:00",
+  "python_version": "3.14.2",
+  "dependency_versions": {
+    "annotated-doc": "0.0.5",
+    "annotated-types": "0.8.0",
+    "anyio": "4.14.2",
+    "brotli": "1.2.0",
+    "certifi": "2026.7.22",
+    "click": "8.4.2",
+    "colorama": "0.4.6",
+    "fastapi": "0.141.1",
+    "filelock": "3.32.2",
+    "fsspec": "2026.7.0",
+    "gradio": "6.23.1",
+    "gradio-client": "2.6.0",
+    "groovy": "0.1.2",
+    "h11": "0.16.0",
+    "hf-gradio": "0.4.1",
+    "hf-xet": "1.6.0",
+    "httpcore": "1.0.9",
+    "httpx": "0.28.1",
+    "huggingface-hub": "1.27.0",
+    "idna": "3.18",
+    "jinja2": "3.1.6",
+    "markdown-it-py": "4.2.0",
+    "markupsafe": "3.0.3",
+    "mdurl": "0.1.2",
+    "numpy": "2.5.2",
+    "orjson": "3.11.9",
+    "packaging": "26.3",
+    "pandas": "3.0.5",
+    "pillow": "12.3.0",
+    "pydantic": "2.13.4",
+    "pydantic-core": "2.46.4",
+    "pydub": "0.25.1",
+    "pygments": "2.20.0",
+    "python-dateutil": "2.9.0.post0",
+    "python-multipart": "0.0.32",
+    "pytz": "2026.3.post1",
+    "pyyaml": "6.0.3",
+    "rich": "15.0.0",
+    "safehttpx": "0.1.7",
+    "scipy": "1.18.0",
+    "semantic-version": "2.10.0",
+    "setuptools": "80.9.0",
+    "shellingham": "1.5.4",
+    "six": "1.17.0",
+    "starlette": "1.6.0",
+    "tomlkit": "0.14.0",
+    "tqdm": "4.70.0",
+    "typer": "0.27.1",
+    "typing-extensions": "4.16.0",
+    "typing-inspection": "0.4.3",
+    "tzdata": "2026.3",
+    "uvicorn": "0.52.1"
+  },
+  "lockfile_sha256": "5d375a6ac6ee04b8d4e924b30fd3d77f7bcf3cdbe5307053518fe51900f0a544",
+  "public_content_sha256": "b7286e46d6dff8936027507f91a473316c32de19c90e9991f26cce3d22f05d75",
+  "public_inventory_path": "deployment/public_inventory.json",
+  "supported_modes": [
+    "DEMO",
+    "REAL"
+  ],
+  "tested_tcga_projects": [
+    "TCGA-LUAD",
+    "TCGA-BRCA",
+    "TCGA-KIRC"
+  ],
+  "entry_points": {
+    "web": "app.py",
+    "cli": "examples/run_real_analysis.py"
+  },
+  "run_manifest_location": "configured output directory per analysis run",
+  "github": {
+    "repository": "bearstree/OncoLncAI",
+    "url": "https://github.com/bearstree/OncoLncAI"
+  },
+  "hugging_face": {
+    "space_id": "weiyi/OncoLncAI",
+    "url": "https://huggingface.co/spaces/weiyi/OncoLncAI",
+    "sdk": "gradio"
+  },
+  "hosted_limitations": [
+    "runtime storage may be ephemeral",
+    "full REAL analyses depend on network access, memory, and compute limits"
+  ]
+}
